@@ -78,4 +78,4 @@ Este proyecto aplica técnicas de **procesamiento de lenguaje natural (NLP)** pa
 Este proyecto fue realizado por **Donaji Ramos Núñez** como parte de mi portafolio profesional en el área de Data Science y análisis de negocios.  
 📫 donajiramosn@gmail.com
 
-🔗 Portafolio: [DonajiR_Portfolio.github.io](https://DonajiR_Portfolio.github.io)
+🔗 Portafolio: https://donaji99.github.io/DonajiR_Portfolio.github.io/
