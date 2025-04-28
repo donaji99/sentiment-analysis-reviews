@@ -1,0 +1,501 @@
+review_id,user_name,user_type,rating,review_text,state,num_tires,amount_spent,tire_size,vehicle_type,purchase_date,usage_time_months,driving_conditions,usage_frequency,tire_brand,repeat_purchase,reported_issues,vehicle_model,recommendation
+1,Gregory and Sons,company,5,"Great tires, very durable and reliable.",Tlaxcala,2,3627.17,265/70R17,motorcycle,2024-08-24,21,highway,high,Goodyear,Yes,excellent grip,Hour 641,No
+2,"Miller, Weber and Lane",company,2,"Amazing traction and stability, very satisfied.",Tabasco,9,1684.6,110/70-17,bicycle,2023-12-14,3,off-road,medium,Continental,No,punctures,Word 381,Yes
+3,Ian Martinez,individual,2,"Amazing traction and stability, very satisfied.",Baja California,9,4991.04,700x25c,motorcycle,2023-11-21,25,off-road,medium,Pirelli,No,excellent grip,Reality 133,No
+4,Elizabeth Strickland,individual,5,"Had frequent punctures, disappointing experience.",Oaxaca,15,4537.99,265/70R17,car,2024-01-15,14,city,low,Bridgestone,No,none,Crime 237,No
+5,Timothy Cruz,individual,4,Excellent performance and smooth ride.,Nayarit,1,4150.57,265/70R17,motorcycle,2024-04-19,31,off-road,low,Michelin,No,excellent grip,Perhaps 726,Yes
+6,"Bruce, Conway and Stephens",company,1,"Reliable and fuel-efficient, highly recommend.",Tabasco,16,,265/70R17,truck,2024-03-19,20,mixed,low,Goodyear,No,none,Easy 263,Yes
+7,"Rodriguez, Johnson and Henry",company,4,"Had frequent punctures, disappointing experience.",Yucatán,12,2836.84,265/70R17,truck,2023-03-28,31,city,high,Goodyear,Yes,punctures,Follow 623,No
+8,Elliott Ltd,company,3,"Reliable and fuel-efficient, highly recommend.",Nuevo León,11,2817.04,110/70-17,truck,2022-12-09,36,off-road,low,Goodyear,No,none,That 147,Yes
+9,Shawn Serrano,individual,3,"Great tires, very durable and reliable.",Nayarit,10,1806.61,110/70-17,truck,2024-09-21,10,city,high,Continental,No,noise,Laugh 764,Yes
+10,"Davidson, Burns and French",company,1,"Poor grip on wet roads, I expected better.",Sonora,11,2379.03,700x25c,bicycle,2022-04-21,27,mixed,medium,Michelin,No,none,Its 743,Yes
+11,Ellison-Perkins,company,5,"Perfect for long highway trips, comfortable ride.",Sinaloa,16,4540.06,700x25c,bicycle,2025-02-03,5,highway,low,Goodyear,No,punctures,Recognize 715,No
+12,"Fernandez, Phillips and Harris",company,3,"Had frequent punctures, disappointing experience.",Puebla,17,1725.95,110/70-17,motorcycle,2023-03-27,28,highway,low,Bridgestone,No,noise,Agency 833,Yes
+13,Sylvia Smith,individual,4,"Amazing traction and stability, very satisfied.",Campeche,17,1719.15,110/70-17,truck,2024-04-05,33,mixed,low,Bridgestone,No,none,Somebody 178,No
+14,Jessica Martin,individual,5,Good tires but a bit noisy at high speeds.,Baja California,9,4815.08,700x25c,truck,2023-10-25,21,highway,low,Pirelli,No,fast wear,Cause 297,No
+15,William Dominguez,individual,5,"Had frequent punctures, disappointing experience.",Chiapas,9,2817.5,110/70-17,truck,2022-06-16,9,highway,medium,Goodyear,No,none,Understand 544,No
+16,Deborah Crawford,individual,5,"Not worth the price, wore out too quickly.",Guerrero,11,1456.49,700x25c,car,2023-04-10,12,mixed,medium,Continental,Yes,fast wear,Than 569,No
+17,Nelson PLC,company,4,Good tires but a bit noisy at high speeds.,Coahuila,15,2246.65,700x25c,truck,2024-07-24,32,city,low,Pirelli,No,fast wear,Pretty 743,Yes
+18,Ferguson-Meyer,company,5,"Reliable and fuel-efficient, highly recommend.",Chiapas,4,1590.3,110/70-17,car,2025-02-22,20,mixed,medium,Michelin,Yes,good traction,International 410,Yes
+19,Larsen-Wheeler,company,5,"Not worth the price, wore out too quickly.",México,2,2396.65,700x25c,motorcycle,2023-05-28,11,off-road,low,Goodyear,No,noise,He 172,Yes
+20,Mary Barker,individual,4,Excellent performance and smooth ride.,Puebla,10,2986.44,225/70R19.5,motorcycle,2023-02-26,17,mixed,high,Goodyear,No,fast wear,Describe 852,No
+21,Michael Perez,individual,1,Good tires but a bit noisy at high speeds.,Oaxaca,17,139.73,700x25c,motorcycle,2024-10-25,29,highway,medium,Goodyear,Yes,fast wear,Science 597,No
+22,Kyle Jimenez,individual,3,"Had frequent punctures, disappointing experience.",México,16,4663.9,110/70-17,truck,2022-03-19,29,highway,medium,Continental,No,good traction,Decision 660,Yes
+23,Whitaker Ltd,company,3,"Not worth the price, wore out too quickly.",México,13,3443.45,700x25c,bicycle,2023-05-14,32,mixed,low,Pirelli,Yes,excellent grip,Professional 538,Yes
+24,Christina Adams,individual,3,"Mediocre performance, I would not buy again.",Guerrero,13,3411.61,700x25c,motorcycle,2024-10-20,2,highway,high,Goodyear,Yes,excellent grip,Idea 175,No
+25,Danielle Curtis,individual,4,"Not worth the price, wore out too quickly.",Nuevo León,5,2725.87,265/70R17,truck,2022-12-01,15,highway,medium,Pirelli,Yes,none,Short 340,No
+26,Gordon PLC,company,2,Excellent performance and smooth ride.,Durango,2,4429.38,700x25c,motorcycle,2023-01-04,19,off-road,low,Goodyear,Yes,none,Season 744,No
+27,Stephanie Reynolds,individual,3,"Perfect for long highway trips, comfortable ride.",Durango,8,1238.7,225/70R19.5,car,2022-04-28,21,city,medium,Michelin,No,good traction,Factor 566,No
+28,Garcia PLC,company,2,Good tires but a bit noisy at high speeds.,Nuevo León,4,4011.57,225/70R19.5,motorcycle,2023-01-31,2,highway,low,Pirelli,Yes,good traction,Young 365,No
+29,Shelley Mccarthy,individual,4,"Not worth the price, wore out too quickly.",Tlaxcala,5,2591.51,225/70R19.5,bicycle,2025-03-11,26,off-road,high,Michelin,Yes,none,Listen 228,Yes
+30,Ho-Gallegos,company,3,,Oaxaca,4,727.28,700x25c,motorcycle,2022-11-04,8,city,medium,Pirelli,Yes,good traction,Be 916,Yes
+31,Smith LLC,company,1,"Reliable and fuel-efficient, highly recommend.",Zacatecas,14,4684.53,225/70R19.5,motorcycle,2022-08-10,10,city,low,Michelin,No,punctures,Build 133,No
+32,Joshua Davis,individual,1,"Amazing traction and stability, very satisfied.",Veracruz,12,3284.16,225/70R19.5,truck,2024-09-09,14,off-road,medium,Continental,No,punctures,Nation 852,No
+33,Karen Flores,individual,2,"Reliable and fuel-efficient, highly recommend.",San Luis Potosí,6,459.48,225/70R19.5,truck,2023-03-23,26,city,medium,Bridgestone,No,fast wear,Identify 935,No
+34,Joshua Fletcher,individual,5,"Great tires, very durable and reliable.",Yucatán,6,2556.41,110/70-17,bicycle,2024-07-28,1,mixed,high,Goodyear,Yes,good traction,Camera 539,No
+35,Jamie Zamora,individual,3,"Reliable and fuel-efficient, highly recommend.",Baja California Sur,9,225.49,225/70R19.5,truck,2023-06-24,30,mixed,medium,Goodyear,Yes,noise,Drug 753,Yes
+36,"Clark, Hunter and Chaney",company,1,Good tires but a bit noisy at high speeds.,Chiapas,14,4859.98,225/70R19.5,truck,2023-02-08,12,highway,high,Goodyear,Yes,good traction,Gas 731,Yes
+37,Karen King,individual,2,Good tires but a bit noisy at high speeds.,Quintana Roo,17,177.75,265/70R17,bicycle,2024-02-24,29,highway,low,Pirelli,Yes,punctures,Stage 688,No
+38,"Orr, Thompson and Mayo",company,1,"Mediocre performance, I would not buy again.",Aguascalientes,5,3659.0,700x25c,car,2023-02-14,35,off-road,low,Continental,No,punctures,Part 613,Yes
+39,Edwards LLC,company,2,"Amazing traction and stability, very satisfied.",Oaxaca,1,3515.05,110/70-17,car,2022-12-22,8,city,high,Michelin,Yes,fast wear,Standard 771,No
+40,Renee Morrow,individual,4,"Poor grip on wet roads, I expected better.",Oaxaca,1,1609.32,225/70R19.5,motorcycle,2025-01-20,7,off-road,high,Michelin,No,fast wear,Purpose 614,No
+41,Michael Martinez,individual,2,"Reliable and fuel-efficient, highly recommend.",Veracruz,5,4399.06,700x25c,truck,2023-04-14,8,highway,high,Michelin,Yes,fast wear,Song 655,No
+42,"Hale, Reid and Foster",company,3,"Poor grip on wet roads, I expected better.",Tamaulipas,14,3096.6,225/70R19.5,car,2024-04-02,8,city,low,Pirelli,Yes,noise,Career 914,Yes
+43,"Evans, Ramirez and Newman",company,4,"Perfect for long highway trips, comfortable ride.",Baja California Sur,9,2128.67,110/70-17,motorcycle,2025-03-12,15,off-road,high,Continental,Yes,excellent grip,Right 881,Yes
+44,Vincent Levine,individual,3,"Amazing traction and stability, very satisfied.",Chiapas,5,4657.44,265/70R17,motorcycle,2022-06-06,10,mixed,high,Goodyear,No,good traction,Choice 326,Yes
+45,Christopher Blankenship,individual,4,Good tires but a bit noisy at high speeds.,Tabasco,13,320.36,700x25c,car,2025-01-01,3,highway,high,Goodyear,No,good traction,Born 545,Yes
+46,Karina Bradley,individual,2,"Amazing traction and stability, very satisfied.",Tamaulipas,8,835.17,225/70R19.5,truck,2023-07-14,28,highway,low,Michelin,Yes,noise,Assume 583,No
+47,"Strickland, Lucas and Chavez",company,5,"Not worth the price, wore out too quickly.",Coahuila,9,1927.31,265/70R17,motorcycle,2023-10-29,14,off-road,medium,Pirelli,No,excellent grip,Bar 353,Yes
+48,Christopher Miller,individual,1,"Amazing traction and stability, very satisfied.",Zacatecas,12,691.74,225/70R19.5,truck,2025-01-24,1,mixed,high,Goodyear,Yes,excellent grip,Seem 162,No
+49,Hall-Cordova,company,5,Good tires but a bit noisy at high speeds.,Oaxaca,4,3309.35,110/70-17,bicycle,2023-05-27,21,city,low,Pirelli,Yes,excellent grip,They 417,Yes
+50,"Gonzales, Owen and Smith",company,3,"Had frequent punctures, disappointing experience.",Puebla,15,1407.86,110/70-17,motorcycle,2023-06-06,2,highway,low,Michelin,Yes,fast wear,See 453,No
+51,Williams-House,company,2,"Great tires, very durable and reliable.",Tabasco,3,4773.61,700x25c,car,2024-11-07,29,city,low,Bridgestone,Yes,excellent grip,Quickly 921,Yes
+52,Kristin Combs,individual,3,"Amazing traction and stability, very satisfied.",Guerrero,11,4402.31,265/70R17,truck,2024-08-12,15,city,low,Pirelli,No,none,Sit 610,Yes
+53,Ian Hernandez,individual,3,"Mediocre performance, I would not buy again.",Michoacán,15,1046.0,265/70R17,motorcycle,2024-07-18,24,city,low,Pirelli,No,fast wear,Begin 528,Yes
+54,"Moore, Miles and Mann",company,4,"Had frequent punctures, disappointing experience.",Hidalgo,16,1963.15,700x25c,motorcycle,2024-11-05,14,off-road,medium,Goodyear,No,none,Sometimes 733,Yes
+55,Wiggins and Sons,company,5,"Great tires, very durable and reliable.",Chihuahua,12,4635.56,225/70R19.5,motorcycle,2022-10-05,22,mixed,medium,Pirelli,No,punctures,Catch 281,No
+56,Lindsey Mitchell,individual,4,"Perfect for long highway trips, comfortable ride.",Baja California Sur,13,411.62,700x25c,truck,2024-04-15,36,city,high,Bridgestone,No,excellent grip,Despite 947,Yes
+57,Allen-Long,company,5,Excellent performance and smooth ride.,Baja California,17,254.42,265/70R17,truck,2025-02-12,3,highway,low,Pirelli,Yes,punctures,Culture 808,No
+58,Karen Anderson,individual,3,"Not worth the price, wore out too quickly.",Yucatán,10,754.37,110/70-17,motorcycle,2023-09-26,33,off-road,low,Continental,No,excellent grip,Leg 437,Yes
+59,Lee-Roach,company,1,"Reliable and fuel-efficient, highly recommend.",Yucatán,2,1538.73,110/70-17,truck,2023-06-01,7,mixed,low,Goodyear,Yes,good traction,High 679,Yes
+60,Kayla Marshall,individual,2,,Guanajuato,1,166.58,110/70-17,bicycle,2023-03-10,16,city,medium,Pirelli,No,fast wear,Speak 567,Yes
+61,Miranda Foster,individual,2,"Perfect for long highway trips, comfortable ride.",Baja California Sur,7,557.52,110/70-17,car,2024-10-14,1,mixed,high,Goodyear,No,none,Home 476,Yes
+62,Cline Ltd,company,2,"Reliable and fuel-efficient, highly recommend.",Coahuila,10,4106.87,700x25c,car,2024-08-09,6,highway,low,Michelin,No,none,Yard 341,No
+63,Ewing LLC,company,2,"Amazing traction and stability, very satisfied.",Sonora,9,2485.77,700x25c,truck,2024-02-01,14,highway,high,Continental,Yes,punctures,Month 202,Yes
+64,Lang-Mays,company,2,"Great tires, very durable and reliable.",San Luis Potosí,4,821.81,265/70R17,bicycle,2024-07-22,9,city,low,Bridgestone,No,good traction,Require 174,No
+65,Rebecca Roberts,individual,2,"Great tires, very durable and reliable.",Tabasco,7,,265/70R17,car,2024-05-18,6,mixed,high,Continental,No,excellent grip,Music 248,No
+66,Obrien LLC,company,4,"Great tires, very durable and reliable.",San Luis Potosí,15,139.08,110/70-17,bicycle,2023-12-17,20,off-road,high,Goodyear,No,fast wear,Institution 765,No
+67,William Glover,individual,2,Excellent performance and smooth ride.,Nuevo León,3,2686.21,225/70R19.5,motorcycle,2023-09-10,28,off-road,high,Continental,Yes,none,Build 855,No
+68,Ruth Walker,individual,4,"Not worth the price, wore out too quickly.",Jalisco,11,228.5,700x25c,motorcycle,2022-12-14,19,highway,medium,Goodyear,No,excellent grip,Cause 174,No
+69,Williams-Conrad,company,2,"Not worth the price, wore out too quickly.",Baja California Sur,15,4199.19,700x25c,car,2023-05-04,18,mixed,high,Bridgestone,No,fast wear,Control 840,No
+70,Grant-Williams,company,4,"Amazing traction and stability, very satisfied.",Guanajuato,13,,265/70R17,motorcycle,2023-09-08,23,off-road,medium,Pirelli,No,excellent grip,Mr 882,Yes
+71,Wesley Baker,individual,2,,Quintana Roo,13,2386.57,110/70-17,bicycle,2022-07-23,30,highway,high,Goodyear,Yes,fast wear,Care 516,Yes
+72,Kelly-Jones,company,4,,San Luis Potosí,18,3406.52,110/70-17,bicycle,2022-06-30,24,off-road,low,Continental,Yes,excellent grip,Plan 112,No
+73,Anthony Ballard,individual,4,"Mediocre performance, I would not buy again.",Durango,12,1705.64,265/70R17,truck,2023-01-11,12,city,low,Michelin,Yes,none,Trade 566,No
+74,"Johnson, Harper and Johnson",company,4,"Perfect for long highway trips, comfortable ride.",Baja California,18,458.32,110/70-17,bicycle,2024-01-15,12,highway,low,Goodyear,Yes,fast wear,Fear 733,Yes
+75,Laura Gonzalez,individual,3,"Not worth the price, wore out too quickly.",Guanajuato,7,165.33,110/70-17,truck,2024-03-05,5,mixed,high,Bridgestone,Yes,excellent grip,Stand 852,No
+76,Nicole Hayes,individual,2,Good tires but a bit noisy at high speeds.,Morelos,13,2888.33,265/70R17,bicycle,2022-09-27,21,highway,low,Bridgestone,Yes,fast wear,Step 125,No
+77,Zhang-Johnston,company,3,"Had frequent punctures, disappointing experience.",Coahuila,11,1180.72,700x25c,motorcycle,2022-05-04,28,mixed,high,Michelin,Yes,none,These 424,Yes
+78,Lee Group,company,1,Excellent performance and smooth ride.,Guanajuato,1,3353.23,265/70R17,car,2024-06-18,32,off-road,medium,Continental,Yes,good traction,His 721,Yes
+79,Robin Watkins,individual,1,Excellent performance and smooth ride.,Tlaxcala,2,3164.47,700x25c,bicycle,2022-11-08,1,off-road,low,Michelin,Yes,excellent grip,Meet 592,No
+80,"Webster, Deleon and Horn",company,3,Excellent performance and smooth ride.,Veracruz,8,1002.84,265/70R17,bicycle,2023-08-31,24,off-road,low,Michelin,No,fast wear,Outside 919,Yes
+81,Wilson PLC,company,3,"Reliable and fuel-efficient, highly recommend.",México,11,4915.25,225/70R19.5,truck,2023-11-23,5,highway,medium,Continental,Yes,noise,Research 273,No
+82,"Anderson, Henry and Thompson",company,3,,Tlaxcala,10,4202.86,225/70R19.5,bicycle,2023-09-19,4,off-road,low,Continental,No,good traction,Shake 703,No
+83,David Garcia,individual,3,"Amazing traction and stability, very satisfied.",Michoacán,14,564.38,265/70R17,bicycle,2022-04-22,34,mixed,medium,Bridgestone,Yes,noise,Science 214,No
+84,Meghan Logan,individual,5,Good tires but a bit noisy at high speeds.,Tamaulipas,1,1130.13,265/70R17,truck,2024-12-19,24,highway,low,Michelin,No,fast wear,Energy 895,Yes
+85,"Montgomery, Ponce and Avery",company,2,"Poor grip on wet roads, I expected better.",Campeche,8,2542.65,110/70-17,motorcycle,2024-06-06,9,mixed,high,Goodyear,No,noise,Anything 576,Yes
+86,Robert Hale,individual,1,,Aguascalientes,1,4127.22,110/70-17,car,2024-02-23,20,off-road,medium,Bridgestone,No,fast wear,Late 760,No
+87,Allison Caldwell,individual,4,"Great tires, very durable and reliable.",Quintana Roo,4,2800.06,110/70-17,bicycle,2023-04-18,33,highway,high,Continental,No,excellent grip,Onto 947,Yes
+88,Anna Christian,individual,5,"Reliable and fuel-efficient, highly recommend.",Baja California Sur,4,879.15,110/70-17,motorcycle,2024-01-19,28,off-road,medium,Michelin,Yes,fast wear,American 792,Yes
+89,George Ltd,company,5,"Perfect for long highway trips, comfortable ride.",Morelos,3,630.8,265/70R17,motorcycle,2023-07-11,15,mixed,high,Goodyear,No,good traction,Relationship 407,No
+90,Anna Norton,individual,3,Excellent performance and smooth ride.,Michoacán,9,3745.08,265/70R17,car,2024-08-16,18,city,medium,Bridgestone,Yes,excellent grip,Stock 706,Yes
+91,"Rivera, Porter and Gonzales",company,4,"Not worth the price, wore out too quickly.",Querétaro,3,3519.04,265/70R17,bicycle,2022-05-20,34,mixed,high,Michelin,Yes,noise,Recently 661,Yes
+92,Bradley Wise,individual,1,Excellent performance and smooth ride.,Sinaloa,11,4136.64,225/70R19.5,truck,2024-11-25,32,highway,medium,Continental,No,none,Military 393,Yes
+93,Shannon Mcdonald,individual,5,Excellent performance and smooth ride.,Hidalgo,8,669.08,700x25c,motorcycle,2023-11-25,26,off-road,low,Bridgestone,No,none,Camera 973,No
+94,Joshua Williams,individual,2,Excellent performance and smooth ride.,Chihuahua,1,4301.39,265/70R17,car,2024-12-07,8,off-road,medium,Michelin,No,excellent grip,Home 354,No
+95,"Neal, White and Hartman",company,3,"Mediocre performance, I would not buy again.",Querétaro,5,2136.96,225/70R19.5,bicycle,2024-08-07,1,highway,low,Pirelli,No,good traction,Off 998,No
+96,"Castillo, Baldwin and Hernandez",company,5,Excellent performance and smooth ride.,Michoacán,4,1357.66,265/70R17,bicycle,2024-08-27,3,highway,medium,Pirelli,No,excellent grip,Operation 292,Yes
+97,Stephens-Mcdaniel,company,2,"Had frequent punctures, disappointing experience.",Nuevo León,15,4979.96,265/70R17,car,2023-06-07,19,highway,medium,Pirelli,Yes,good traction,Why 675,No
+98,Drake Inc,company,3,"Not worth the price, wore out too quickly.",San Luis Potosí,10,1379.48,700x25c,motorcycle,2023-11-09,36,off-road,low,Michelin,Yes,noise,Attack 356,No
+99,Catherine Mora,individual,1,"Amazing traction and stability, very satisfied.",Zacatecas,17,2235.24,110/70-17,car,2023-12-13,27,mixed,low,Continental,Yes,none,Soldier 176,No
+100,Kelsey Barnes,individual,2,"Reliable and fuel-efficient, highly recommend.",Tlaxcala,6,2940.34,265/70R17,bicycle,2024-02-27,13,mixed,medium,Michelin,Yes,noise,Purpose 871,No
+101,Clay Group,company,2,"Poor grip on wet roads, I expected better.",San Luis Potosí,10,2210.46,700x25c,bicycle,2023-12-10,2,off-road,medium,Michelin,No,noise,Difficult 661,No
+102,"Goodwin, Rich and Smith",company,4,Excellent performance and smooth ride.,Zacatecas,1,3951.6,110/70-17,car,2022-08-07,20,highway,low,Continental,Yes,good traction,Provide 951,No
+103,"Williamson, Wise and Chang",company,3,"Mediocre performance, I would not buy again.",Querétaro,11,2921.81,265/70R17,bicycle,2022-11-06,11,off-road,high,Michelin,No,noise,Natural 364,Yes
+104,Martin LLC,company,4,"Great tires, very durable and reliable.",Guerrero,9,4577.2,110/70-17,bicycle,2023-12-07,20,mixed,high,Michelin,No,excellent grip,Must 624,Yes
+105,Tanya Miller,individual,5,"Poor grip on wet roads, I expected better.",Quintana Roo,5,233.85,700x25c,motorcycle,2023-01-31,20,city,medium,Michelin,No,punctures,During 664,Yes
+106,Jeremy Graham,individual,4,Excellent performance and smooth ride.,Zacatecas,13,4310.48,110/70-17,motorcycle,2023-09-24,5,highway,medium,Bridgestone,Yes,fast wear,Reason 744,No
+107,"Greer, Brown and Schroeder",company,5,,Sinaloa,8,3837.24,265/70R17,bicycle,2023-09-14,2,mixed,low,Bridgestone,No,noise,Me 549,Yes
+108,Scott PLC,company,1,"Perfect for long highway trips, comfortable ride.",Jalisco,13,1914.5,700x25c,bicycle,2023-05-17,33,mixed,medium,Goodyear,No,punctures,Style 958,No
+109,Gross Inc,company,1,Good tires but a bit noisy at high speeds.,Nayarit,4,4100.87,110/70-17,motorcycle,2022-12-13,7,city,high,Bridgestone,Yes,noise,Size 747,Yes
+110,Fischer Inc,company,2,"Perfect for long highway trips, comfortable ride.",Baja California,12,3837.47,225/70R19.5,motorcycle,2024-06-11,34,off-road,medium,Goodyear,No,none,Glass 349,No
+111,Laura Wilson,individual,5,"Mediocre performance, I would not buy again.",Baja California,3,4312.77,700x25c,car,2023-11-02,22,mixed,low,Continental,No,noise,Left 996,No
+112,"Morris, Moore and Fernandez",company,3,"Amazing traction and stability, very satisfied.",San Luis Potosí,18,1027.86,700x25c,car,2023-05-22,9,highway,high,Continental,Yes,fast wear,Health 808,No
+113,Matthew Soto,individual,4,"Amazing traction and stability, very satisfied.",Tabasco,12,3691.15,225/70R19.5,bicycle,2022-09-18,22,mixed,low,Continental,Yes,good traction,Surface 450,Yes
+114,"Pitts, Powell and Carson",company,4,Excellent performance and smooth ride.,Chihuahua,17,2631.61,265/70R17,car,2022-05-19,32,off-road,medium,Pirelli,No,fast wear,Mention 206,No
+115,Walter Morales,individual,5,"Mediocre performance, I would not buy again.",Querétaro,13,1302.75,110/70-17,car,2024-05-17,27,mixed,low,Bridgestone,No,fast wear,Year 590,Yes
+116,Jones Group,company,5,"Mediocre performance, I would not buy again.",Nuevo León,12,4308.55,225/70R19.5,bicycle,2022-12-24,30,city,medium,Continental,No,excellent grip,Unit 836,Yes
+117,Laura Chang,individual,4,"Poor grip on wet roads, I expected better.",Colima,10,2248.58,265/70R17,truck,2022-12-16,28,mixed,high,Michelin,Yes,good traction,Thousand 901,Yes
+118,Dana Richards,individual,4,"Perfect for long highway trips, comfortable ride.",Nuevo León,4,1956.12,265/70R17,car,2025-01-26,33,off-road,high,Bridgestone,No,fast wear,Stage 808,Yes
+119,Yvonne Peterson,individual,2,"Great tires, very durable and reliable.",Jalisco,18,2625.27,110/70-17,bicycle,2023-03-30,17,city,high,Goodyear,No,punctures,Collection 687,Yes
+120,Palmer Ltd,company,5,"Had frequent punctures, disappointing experience.",Nuevo León,16,174.11,700x25c,car,2024-02-24,26,mixed,low,Goodyear,Yes,noise,Behavior 387,Yes
+121,"Baker, Smith and Santiago",company,5,"Not worth the price, wore out too quickly.",Morelos,17,499.25,110/70-17,motorcycle,2022-05-09,15,city,high,Michelin,Yes,fast wear,Meet 595,Yes
+122,Amanda Smith MD,individual,3,"Mediocre performance, I would not buy again.",Morelos,2,3926.53,700x25c,car,2023-03-15,27,highway,medium,Goodyear,No,none,Pull 520,Yes
+123,Perez Ltd,company,5,"Amazing traction and stability, very satisfied.",Yucatán,2,387.54,700x25c,bicycle,2025-01-20,34,highway,high,Bridgestone,No,punctures,Price 874,No
+124,Nicole Robinson,individual,5,"Great tires, very durable and reliable.",Zacatecas,1,,265/70R17,car,2023-02-24,18,off-road,low,Michelin,Yes,excellent grip,Industry 370,No
+125,Williams Group,company,2,"Reliable and fuel-efficient, highly recommend.",Jalisco,13,4865.68,265/70R17,bicycle,2023-03-20,11,off-road,medium,Michelin,No,excellent grip,Say 645,Yes
+126,Jackson Saunders,individual,4,"Mediocre performance, I would not buy again.",Baja California,13,136.68,700x25c,car,2024-09-09,26,city,low,Michelin,Yes,excellent grip,Hour 879,Yes
+127,Jared Dean,individual,4,"Not worth the price, wore out too quickly.",Jalisco,14,1091.03,225/70R19.5,bicycle,2023-08-23,2,mixed,medium,Goodyear,No,punctures,Structure 516,No
+128,Scott LLC,company,3,"Amazing traction and stability, very satisfied.",San Luis Potosí,11,1042.69,700x25c,car,2022-11-01,20,mixed,medium,Continental,No,noise,New 626,No
+129,Barker and Sons,company,1,"Not worth the price, wore out too quickly.",Querétaro,5,148.78,700x25c,truck,2022-09-06,17,off-road,low,Goodyear,No,noise,Answer 543,Yes
+130,"Meyers, Davis and Taylor",company,3,Excellent performance and smooth ride.,Jalisco,12,,225/70R19.5,motorcycle,2024-09-16,12,off-road,high,Bridgestone,No,none,Determine 603,Yes
+131,Judith Wilson,individual,2,"Poor grip on wet roads, I expected better.",Jalisco,18,2225.16,700x25c,bicycle,2024-10-10,9,mixed,high,Michelin,Yes,none,Daughter 180,Yes
+132,Charles Henry,individual,4,"Amazing traction and stability, very satisfied.",Jalisco,16,2381.23,225/70R19.5,bicycle,2024-02-17,28,highway,low,Goodyear,Yes,excellent grip,Chance 334,Yes
+133,Faulkner-Li,company,1,"Amazing traction and stability, very satisfied.",Colima,9,4649.95,700x25c,bicycle,2023-02-14,18,off-road,low,Pirelli,No,punctures,Thank 952,Yes
+134,Marcia Brewer,individual,1,"Amazing traction and stability, very satisfied.",Tamaulipas,2,2045.18,110/70-17,motorcycle,2023-12-31,28,city,low,Pirelli,Yes,noise,Budget 599,No
+135,Weeks-Lee,company,1,,Quintana Roo,18,3175.65,110/70-17,car,2024-09-22,31,city,medium,Continental,Yes,noise,Keep 218,No
+136,Kelly Smith,individual,3,"Poor grip on wet roads, I expected better.",Tlaxcala,4,4990.72,225/70R19.5,car,2022-08-25,16,city,low,Michelin,Yes,fast wear,Experience 900,Yes
+137,Williams Group,company,1,"Reliable and fuel-efficient, highly recommend.",México,3,,225/70R19.5,truck,2023-08-26,20,city,medium,Pirelli,No,fast wear,Staff 321,Yes
+138,Chen-Lee,company,2,"Perfect for long highway trips, comfortable ride.",Nayarit,17,4889.69,265/70R17,car,2022-04-30,19,city,high,Goodyear,No,noise,Work 155,Yes
+139,Nathan Johnson,individual,5,"Poor grip on wet roads, I expected better.",Guanajuato,12,2677.85,700x25c,bicycle,2024-04-22,29,mixed,medium,Michelin,Yes,none,Special 626,Yes
+140,Debra Stokes,individual,1,"Had frequent punctures, disappointing experience.",Tamaulipas,9,1442.2,110/70-17,bicycle,2022-07-26,23,highway,high,Pirelli,Yes,noise,Event 648,Yes
+141,"Jarvis, Lyons and Price",company,5,Excellent performance and smooth ride.,Oaxaca,14,4481.06,700x25c,bicycle,2022-06-12,20,highway,high,Pirelli,Yes,fast wear,Fall 129,No
+142,Pamela Collins,individual,5,Excellent performance and smooth ride.,Chiapas,2,3701.08,225/70R19.5,bicycle,2024-02-08,14,highway,low,Michelin,No,excellent grip,Past 939,No
+143,Koch Ltd,company,3,"Perfect for long highway trips, comfortable ride.",Veracruz,17,3750.53,700x25c,truck,2023-01-31,29,city,high,Michelin,Yes,noise,From 899,No
+144,Timothy Bell,individual,2,"Perfect for long highway trips, comfortable ride.",Quintana Roo,5,2314.06,265/70R17,motorcycle,2025-02-01,12,mixed,low,Bridgestone,No,punctures,Medical 179,Yes
+145,Garrison LLC,company,1,"Reliable and fuel-efficient, highly recommend.",Querétaro,18,1568.29,700x25c,truck,2022-07-31,21,city,low,Pirelli,Yes,none,One 799,No
+146,Micheal Hanson,individual,3,"Had frequent punctures, disappointing experience.",San Luis Potosí,15,3329.99,225/70R19.5,truck,2022-12-14,23,mixed,low,Continental,No,punctures,Month 298,No
+147,Anthony Smith,individual,5,"Amazing traction and stability, very satisfied.",Guerrero,12,3030.13,265/70R17,bicycle,2024-04-15,24,highway,low,Bridgestone,Yes,none,Source 492,No
+148,Thomas Inc,company,1,"Amazing traction and stability, very satisfied.",Hidalgo,2,2119.87,265/70R17,bicycle,2022-05-02,33,highway,medium,Goodyear,Yes,good traction,Speech 926,No
+149,Shaun Clark,individual,1,"Great tires, very durable and reliable.",Querétaro,15,1628.27,700x25c,bicycle,2024-10-11,1,off-road,medium,Bridgestone,No,fast wear,Herself 268,No
+150,Robinson-Hickman,company,5,"Amazing traction and stability, very satisfied.",Nuevo León,9,630.84,110/70-17,bicycle,2022-10-06,23,mixed,medium,Michelin,Yes,none,Job 327,Yes
+151,Mercado-Nelson,company,1,"Mediocre performance, I would not buy again.",Chihuahua,18,1175.75,265/70R17,motorcycle,2024-05-13,21,mixed,low,Bridgestone,No,good traction,Role 136,Yes
+152,Desiree Bates,individual,3,Good tires but a bit noisy at high speeds.,Oaxaca,10,825.65,225/70R19.5,motorcycle,2023-04-21,7,mixed,low,Bridgestone,No,none,Source 650,No
+153,Sonya Hardin,individual,3,"Perfect for long highway trips, comfortable ride.",Hidalgo,5,2259.82,225/70R19.5,car,2023-04-01,6,off-road,high,Goodyear,No,fast wear,Good 783,No
+154,Ricardo Payne,individual,4,"Not worth the price, wore out too quickly.",Oaxaca,11,1903.98,700x25c,car,2024-05-29,34,mixed,high,Michelin,Yes,none,Time 479,Yes
+155,Christopher Warren,individual,2,"Perfect for long highway trips, comfortable ride.",Coahuila,7,1875.39,110/70-17,car,2023-11-19,16,city,medium,Pirelli,Yes,good traction,Image 662,No
+156,Vicki Beck,individual,2,"Not worth the price, wore out too quickly.",México,2,463.37,265/70R17,truck,2024-09-16,21,off-road,low,Bridgestone,Yes,punctures,Probably 428,Yes
+157,Vincent Gonzalez,individual,1,,Querétaro,8,2950.78,110/70-17,motorcycle,2022-11-09,20,city,low,Continental,No,noise,Television 551,No
+158,Amy Greer,individual,2,Excellent performance and smooth ride.,Aguascalientes,10,3274.51,700x25c,truck,2022-11-08,12,off-road,low,Michelin,No,fast wear,Today 718,No
+159,Steven Myers,individual,2,"Amazing traction and stability, very satisfied.",Chihuahua,4,141.45,225/70R19.5,truck,2024-09-27,28,mixed,low,Goodyear,Yes,noise,Return 766,No
+160,Bender Inc,company,4,,Nuevo León,5,2276.25,700x25c,bicycle,2024-02-11,31,city,high,Michelin,No,excellent grip,Magazine 794,Yes
+161,Anita Park,individual,5,"Had frequent punctures, disappointing experience.",San Luis Potosí,16,3689.75,700x25c,car,2023-11-04,1,city,low,Continental,Yes,excellent grip,Likely 732,No
+162,Weber-Oconnell,company,5,Good tires but a bit noisy at high speeds.,San Luis Potosí,13,4548.05,265/70R17,bicycle,2022-06-18,1,off-road,high,Michelin,Yes,noise,It 871,No
+163,Dixon Inc,company,1,"Had frequent punctures, disappointing experience.",San Luis Potosí,14,235.91,265/70R17,motorcycle,2022-08-14,33,highway,medium,Bridgestone,No,punctures,Be 661,No
+164,Christina Hebert,individual,1,"Not worth the price, wore out too quickly.",Durango,2,1534.42,110/70-17,car,2024-03-11,23,mixed,medium,Bridgestone,Yes,good traction,Baby 723,No
+165,Susan Nelson,individual,4,"Reliable and fuel-efficient, highly recommend.",Coahuila,5,3657.45,700x25c,car,2025-02-21,10,mixed,low,Continental,Yes,fast wear,Result 414,Yes
+166,Jennifer Lara,individual,5,,Guanajuato,18,335.66,110/70-17,car,2022-04-12,35,city,medium,Pirelli,No,noise,Military 843,Yes
+167,Craig Rice,individual,1,"Not worth the price, wore out too quickly.",San Luis Potosí,13,4960.23,700x25c,truck,2023-04-11,10,off-road,low,Pirelli,Yes,noise,Fall 787,Yes
+168,Daniel Flores,individual,2,,Chihuahua,13,3601.41,700x25c,car,2023-09-22,15,mixed,medium,Pirelli,Yes,noise,Threat 511,Yes
+169,"Gutierrez, Phillips and Hayes",company,1,"Perfect for long highway trips, comfortable ride.",Nuevo León,12,713.42,110/70-17,car,2024-06-26,16,highway,medium,Continental,Yes,none,Former 494,No
+170,"Pacheco, Durham and Robertson",company,4,"Great tires, very durable and reliable.",Baja California,17,2059.67,110/70-17,motorcycle,2024-10-26,20,highway,low,Continental,Yes,none,Guess 837,No
+171,"Parker, Burns and Pena",company,4,"Poor grip on wet roads, I expected better.",Hidalgo,9,4486.51,225/70R19.5,car,2025-02-07,7,off-road,low,Bridgestone,No,noise,Middle 977,Yes
+172,Janet Barker,individual,2,Good tires but a bit noisy at high speeds.,Michoacán,13,522.96,225/70R19.5,bicycle,2022-05-13,27,highway,low,Michelin,Yes,none,Series 919,No
+173,Patrick Owens,individual,2,"Reliable and fuel-efficient, highly recommend.",Chiapas,10,1234.11,700x25c,car,2025-01-30,25,city,low,Pirelli,No,good traction,Citizen 246,No
+174,Glover-Davis,company,1,"Great tires, very durable and reliable.",Quintana Roo,12,3874.72,110/70-17,truck,2022-12-19,20,city,high,Continental,No,noise,Prevent 889,Yes
+175,Martin LLC,company,2,"Mediocre performance, I would not buy again.",San Luis Potosí,13,3569.08,110/70-17,bicycle,2024-09-07,26,highway,low,Goodyear,Yes,fast wear,Into 220,Yes
+176,Jody David,individual,2,"Not worth the price, wore out too quickly.",México,9,2419.98,225/70R19.5,motorcycle,2022-06-20,1,city,high,Continental,No,excellent grip,Light 938,No
+177,Ortiz PLC,company,1,,Coahuila,4,,225/70R19.5,truck,2024-05-28,25,city,medium,Michelin,Yes,fast wear,Certainly 728,No
+178,David Davis,individual,4,"Amazing traction and stability, very satisfied.",Coahuila,12,,225/70R19.5,motorcycle,2024-10-06,11,city,high,Goodyear,No,none,Traditional 927,Yes
+179,Ramirez and Sons,company,1,"Mediocre performance, I would not buy again.",Nayarit,15,2376.5,110/70-17,bicycle,2023-06-29,31,city,medium,Michelin,No,noise,Sure 404,No
+180,"Scott, Anderson and Edwards",company,1,"Amazing traction and stability, very satisfied.",Coahuila,16,4546.57,700x25c,truck,2023-06-15,33,city,medium,Goodyear,Yes,fast wear,Trouble 857,Yes
+181,Kyle Patterson,individual,1,"Mediocre performance, I would not buy again.",Hidalgo,14,2316.87,225/70R19.5,truck,2024-09-28,35,mixed,high,Michelin,No,punctures,Skin 309,No
+182,Russell Group,company,5,Good tires but a bit noisy at high speeds.,Guanajuato,9,1678.46,225/70R19.5,bicycle,2024-12-24,32,mixed,high,Michelin,Yes,none,Service 167,No
+183,John Johnson,individual,3,"Great tires, very durable and reliable.",Nuevo León,1,3118.89,265/70R17,car,2022-10-17,1,city,low,Goodyear,No,none,South 965,No
+184,Chad Phelps,individual,2,"Great tires, very durable and reliable.",Baja California,8,4583.88,225/70R19.5,motorcycle,2024-02-11,6,highway,medium,Michelin,Yes,good traction,Will 852,Yes
+185,Herman-Flores,company,5,"Mediocre performance, I would not buy again.",Sonora,11,4635.36,225/70R19.5,car,2024-11-09,1,mixed,medium,Continental,No,punctures,Technology 549,Yes
+186,Stuart-Cooper,company,4,"Had frequent punctures, disappointing experience.",Nuevo León,11,1699.38,265/70R17,motorcycle,2024-06-03,10,highway,high,Pirelli,Yes,fast wear,Six 863,Yes
+187,Jonathan Adkins,individual,4,"Mediocre performance, I would not buy again.",Guerrero,15,717.53,700x25c,truck,2023-09-28,7,mixed,high,Pirelli,Yes,noise,South 611,No
+188,Mrs. Deborah Myers,individual,4,"Perfect for long highway trips, comfortable ride.",Coahuila,9,1463.06,265/70R17,motorcycle,2024-04-28,20,off-road,low,Goodyear,Yes,fast wear,Pretty 387,Yes
+189,"Garcia, Lewis and Williams",company,3,"Had frequent punctures, disappointing experience.",Puebla,5,57.76,265/70R17,car,2022-12-04,25,off-road,low,Pirelli,Yes,noise,Must 249,No
+190,"Myers, Coleman and Watkins",company,5,"Poor grip on wet roads, I expected better.",Sinaloa,2,4601.58,110/70-17,bicycle,2023-12-28,18,off-road,high,Pirelli,Yes,excellent grip,Religious 361,No
+191,"Lopez, Valdez and Jones",company,2,"Reliable and fuel-efficient, highly recommend.",Jalisco,16,4214.67,265/70R17,bicycle,2024-07-26,13,city,high,Goodyear,No,fast wear,Key 199,No
+192,"Jackson, Robbins and Dyer",company,1,"Reliable and fuel-efficient, highly recommend.",Quintana Roo,12,3460.39,110/70-17,motorcycle,2022-12-14,1,highway,high,Michelin,No,noise,Explain 611,Yes
+193,Kimberly Clay,individual,4,"Reliable and fuel-efficient, highly recommend.",Guanajuato,13,1389.23,225/70R19.5,motorcycle,2022-06-03,22,mixed,low,Michelin,No,excellent grip,Total 947,No
+194,Shelly Moreno,individual,5,"Mediocre performance, I would not buy again.",Sonora,11,4375.28,700x25c,car,2024-01-28,6,city,high,Pirelli,No,noise,Put 921,No
+195,Angel Johnson,individual,5,"Great tires, very durable and reliable.",Puebla,18,4875.09,110/70-17,bicycle,2024-12-14,29,off-road,high,Goodyear,No,noise,Quickly 951,No
+196,Mason-Vaughn,company,3,Excellent performance and smooth ride.,Guerrero,17,1261.87,225/70R19.5,bicycle,2024-11-13,29,city,high,Continental,No,excellent grip,Produce 633,Yes
+197,Hernandez-Mason,company,2,"Had frequent punctures, disappointing experience.",Colima,16,4202.14,700x25c,bicycle,2022-05-13,11,city,low,Pirelli,Yes,noise,Enter 898,No
+198,Christian Sanchez,individual,5,"Perfect for long highway trips, comfortable ride.",Oaxaca,12,2826.88,225/70R19.5,truck,2022-08-23,12,off-road,medium,Michelin,Yes,excellent grip,Evidence 596,Yes
+199,Nielsen Inc,company,3,Excellent performance and smooth ride.,Querétaro,15,3249.14,265/70R17,car,2024-03-03,6,highway,medium,Michelin,No,good traction,Adult 902,Yes
+200,Michael Hall,individual,4,"Reliable and fuel-efficient, highly recommend.",Puebla,5,4904.81,110/70-17,motorcycle,2024-06-02,6,mixed,medium,Pirelli,No,good traction,Fire 160,No
+201,Harris Inc,company,2,"Amazing traction and stability, very satisfied.",Durango,5,737.92,265/70R17,truck,2022-07-30,30,off-road,high,Goodyear,No,noise,Beyond 866,Yes
+202,Hunter-Williams,company,1,Good tires but a bit noisy at high speeds.,Guanajuato,15,2274.46,265/70R17,bicycle,2023-03-03,35,city,high,Continental,Yes,punctures,Manager 529,Yes
+203,Henry PLC,company,1,"Reliable and fuel-efficient, highly recommend.",Baja California Sur,3,3469.29,700x25c,car,2024-07-17,6,mixed,medium,Pirelli,No,excellent grip,Follow 755,Yes
+204,"Cantu, Torres and Palmer",company,3,,Guerrero,6,4136.61,265/70R17,car,2022-12-08,22,highway,low,Continental,Yes,none,Camera 471,Yes
+205,Rodriguez PLC,company,1,"Poor grip on wet roads, I expected better.",Nayarit,6,3198.98,265/70R17,bicycle,2023-06-08,16,highway,high,Continental,Yes,good traction,Ago 294,No
+206,Casey LLC,company,2,"Not worth the price, wore out too quickly.",Puebla,13,3423.75,225/70R19.5,truck,2022-05-13,7,mixed,low,Michelin,Yes,none,On 136,Yes
+207,"Dunn, Martin and Manning",company,1,"Reliable and fuel-efficient, highly recommend.",Tamaulipas,15,1311.62,265/70R17,bicycle,2023-03-16,24,mixed,medium,Continental,No,fast wear,Occur 566,No
+208,"Williams, Morton and Simpson",company,5,"Reliable and fuel-efficient, highly recommend.",Campeche,4,,110/70-17,bicycle,2024-04-23,19,mixed,medium,Bridgestone,No,fast wear,Across 970,Yes
+209,Glenn Nguyen,individual,1,"Poor grip on wet roads, I expected better.",Michoacán,2,1632.96,265/70R17,bicycle,2022-11-11,22,city,high,Continental,Yes,excellent grip,Service 250,Yes
+210,Cody Brown,individual,3,"Perfect for long highway trips, comfortable ride.",Puebla,11,4378.02,110/70-17,truck,2024-02-22,36,highway,high,Michelin,Yes,fast wear,One 890,No
+211,Michelle Jackson,individual,2,"Perfect for long highway trips, comfortable ride.",Sonora,4,2092.76,225/70R19.5,bicycle,2022-09-20,17,mixed,medium,Continental,Yes,noise,General 923,No
+212,Christie Heath,individual,4,"Poor grip on wet roads, I expected better.",Nayarit,3,145.29,225/70R19.5,car,2023-07-18,7,off-road,high,Bridgestone,No,good traction,Give 723,Yes
+213,Eddie Peck,individual,3,"Mediocre performance, I would not buy again.",Veracruz,17,4730.88,265/70R17,motorcycle,2024-10-11,18,highway,high,Pirelli,Yes,punctures,Green 382,No
+214,Antonio Reid,individual,1,,Quintana Roo,1,1593.32,225/70R19.5,truck,2023-01-19,4,mixed,high,Pirelli,Yes,punctures,Support 817,Yes
+215,"Lane, Weaver and Jones",company,3,"Reliable and fuel-efficient, highly recommend.",Sinaloa,13,2556.07,265/70R17,motorcycle,2025-02-05,23,highway,medium,Pirelli,No,excellent grip,Call 402,No
+216,Douglas Harvey,individual,3,"Perfect for long highway trips, comfortable ride.",Morelos,18,4411.7,265/70R17,car,2023-05-28,10,mixed,high,Bridgestone,No,good traction,Shake 842,Yes
+217,Shane Hernandez,individual,1,Excellent performance and smooth ride.,Yucatán,3,733.35,110/70-17,truck,2024-05-17,8,off-road,high,Michelin,No,excellent grip,Born 531,Yes
+218,Jennifer Ruiz,individual,4,"Had frequent punctures, disappointing experience.",Sinaloa,3,3841.55,110/70-17,motorcycle,2022-06-19,24,mixed,medium,Bridgestone,Yes,noise,Line 133,Yes
+219,Wilkins Inc,company,2,Good tires but a bit noisy at high speeds.,Nayarit,11,2250.51,700x25c,truck,2023-11-14,24,highway,medium,Continental,Yes,excellent grip,Hospital 456,Yes
+220,"Williams, Lewis and Reed",company,4,"Mediocre performance, I would not buy again.",Hidalgo,5,295.51,265/70R17,truck,2023-10-20,11,mixed,low,Pirelli,No,good traction,Return 564,Yes
+221,Keith Ray,individual,2,"Reliable and fuel-efficient, highly recommend.",Chihuahua,13,2461.26,265/70R17,car,2024-07-17,15,city,high,Michelin,Yes,good traction,Concern 481,No
+222,Kimberly Collier,individual,2,"Not worth the price, wore out too quickly.",Sonora,10,1563.59,265/70R17,car,2024-12-11,24,city,medium,Bridgestone,No,excellent grip,That 876,No
+223,Roy-Kelly,company,3,,Chiapas,12,2765.18,110/70-17,car,2025-01-19,34,off-road,low,Goodyear,No,good traction,Boy 649,Yes
+224,Rose Aguilar,individual,1,"Great tires, very durable and reliable.",Sonora,7,122.79,265/70R17,motorcycle,2023-11-27,26,city,low,Bridgestone,Yes,none,Stay 944,No
+225,Beck and Sons,company,3,"Mediocre performance, I would not buy again.",Yucatán,16,770.53,700x25c,motorcycle,2023-05-30,25,off-road,high,Bridgestone,No,none,This 661,No
+226,Monica Mccoy,individual,5,"Great tires, very durable and reliable.",Campeche,2,2031.78,265/70R17,bicycle,2023-02-04,15,off-road,low,Goodyear,Yes,excellent grip,Plan 663,Yes
+227,Denise Payne,individual,3,"Not worth the price, wore out too quickly.",Guerrero,3,4343.11,225/70R19.5,truck,2023-03-26,29,mixed,low,Bridgestone,Yes,excellent grip,Mrs 379,Yes
+228,Jackson Li,individual,4,Good tires but a bit noisy at high speeds.,Guanajuato,14,3790.09,110/70-17,car,2024-01-22,25,off-road,low,Goodyear,Yes,good traction,Could 449,Yes
+229,Melissa Baxter,individual,1,"Great tires, very durable and reliable.",Michoacán,15,4998.53,700x25c,motorcycle,2023-08-21,35,highway,high,Continental,No,noise,Forget 463,Yes
+230,Walker Ltd,company,3,"Had frequent punctures, disappointing experience.",Baja California,11,4189.2,700x25c,bicycle,2022-11-25,11,mixed,medium,Continental,Yes,excellent grip,Water 333,Yes
+231,Dustin Jackson,individual,5,,Sinaloa,12,1971.67,225/70R19.5,motorcycle,2023-02-19,26,city,medium,Michelin,Yes,noise,Onto 438,No
+232,Howell-Dominguez,company,4,"Not worth the price, wore out too quickly.",México,8,3849.42,265/70R17,bicycle,2023-02-06,13,highway,low,Bridgestone,Yes,noise,Financial 307,Yes
+233,Herman LLC,company,4,"Poor grip on wet roads, I expected better.",Baja California Sur,3,764.16,225/70R19.5,bicycle,2024-05-18,24,city,medium,Goodyear,Yes,punctures,Remember 144,Yes
+234,Khan Group,company,4,"Great tires, very durable and reliable.",Campeche,6,1236.22,225/70R19.5,car,2024-05-03,18,off-road,low,Michelin,Yes,fast wear,Ask 323,No
+235,Duncan PLC,company,4,"Poor grip on wet roads, I expected better.",Morelos,8,1818.68,225/70R19.5,truck,2022-07-05,23,city,high,Bridgestone,No,noise,Read 191,No
+236,Marcus Barnes,individual,5,"Poor grip on wet roads, I expected better.",Aguascalientes,6,2754.02,700x25c,bicycle,2023-08-14,31,off-road,high,Goodyear,No,fast wear,Opportunity 754,Yes
+237,Colleen Vega,individual,2,Good tires but a bit noisy at high speeds.,Hidalgo,14,4644.74,700x25c,motorcycle,2023-06-15,13,highway,low,Goodyear,Yes,fast wear,Rest 115,Yes
+238,Lisa Walter,individual,5,"Not worth the price, wore out too quickly.",Baja California Sur,17,4134.41,265/70R17,car,2025-02-15,35,highway,low,Bridgestone,No,punctures,Stage 178,Yes
+239,Angela King,individual,5,"Reliable and fuel-efficient, highly recommend.",México,17,3659.34,110/70-17,bicycle,2022-10-25,4,highway,high,Pirelli,Yes,excellent grip,Plan 253,Yes
+240,Martin LLC,company,5,"Reliable and fuel-efficient, highly recommend.",Hidalgo,14,2574.98,110/70-17,truck,2024-09-11,9,mixed,high,Bridgestone,No,none,Time 270,No
+241,Clark-Williams,company,5,"Had frequent punctures, disappointing experience.",Aguascalientes,1,,110/70-17,motorcycle,2023-04-06,18,mixed,high,Pirelli,Yes,excellent grip,Unit 751,Yes
+242,Dr. Christina Irwin,individual,1,"Not worth the price, wore out too quickly.",Nuevo León,2,730.17,225/70R19.5,truck,2023-05-22,30,highway,high,Continental,Yes,good traction,Structure 400,No
+243,"Martinez, Bryant and Payne",company,3,,Guerrero,8,3176.22,225/70R19.5,car,2025-02-24,13,city,high,Continental,Yes,fast wear,Yes 754,Yes
+244,Barnett-Hall,company,3,Good tires but a bit noisy at high speeds.,Morelos,8,1504.36,265/70R17,truck,2023-10-10,28,mixed,high,Pirelli,No,good traction,Morning 230,Yes
+245,Steven Johnson,individual,1,Excellent performance and smooth ride.,Coahuila,14,3072.89,700x25c,car,2023-05-18,27,highway,low,Goodyear,Yes,excellent grip,Letter 367,Yes
+246,Donna Garrison,individual,4,"Reliable and fuel-efficient, highly recommend.",Oaxaca,7,2875.3,265/70R17,bicycle,2023-03-13,33,off-road,low,Pirelli,No,fast wear,Care 476,Yes
+247,Archer-Weaver,company,3,"Reliable and fuel-efficient, highly recommend.",Tamaulipas,17,3656.51,700x25c,truck,2023-12-09,26,highway,low,Bridgestone,Yes,noise,Type 454,Yes
+248,Lisa Gonzalez,individual,1,"Not worth the price, wore out too quickly.",Yucatán,3,4540.68,225/70R19.5,bicycle,2022-06-23,3,mixed,high,Continental,Yes,none,Certain 164,No
+249,Howard Henderson,individual,4,"Poor grip on wet roads, I expected better.",Guanajuato,15,1776.63,265/70R17,bicycle,2022-09-22,27,city,low,Continental,Yes,excellent grip,Stage 513,Yes
+250,Kerr LLC,company,3,"Not worth the price, wore out too quickly.",Veracruz,17,4437.44,265/70R17,truck,2022-06-02,18,mixed,medium,Michelin,Yes,excellent grip,Serve 209,No
+251,Wagner and Sons,company,1,Good tires but a bit noisy at high speeds.,Michoacán,2,835.37,110/70-17,truck,2023-08-16,26,off-road,medium,Continental,No,noise,Fight 266,No
+252,Tiffany Davis DVM,individual,3,"Mediocre performance, I would not buy again.",Sinaloa,16,1125.03,700x25c,motorcycle,2022-04-25,32,highway,low,Pirelli,No,none,Effort 971,Yes
+253,Cruz and Sons,company,4,Good tires but a bit noisy at high speeds.,Veracruz,8,3067.85,700x25c,car,2024-12-20,28,mixed,medium,Michelin,No,noise,Exist 817,Yes
+254,"Zuniga, James and Moore",company,4,"Poor grip on wet roads, I expected better.",Querétaro,16,3734.5,265/70R17,bicycle,2024-02-08,1,off-road,medium,Goodyear,No,none,Mean 690,Yes
+255,"Thompson, Gilbert and Armstrong",company,1,"Reliable and fuel-efficient, highly recommend.",Aguascalientes,17,694.42,110/70-17,bicycle,2023-05-17,34,highway,high,Bridgestone,No,fast wear,Approach 285,Yes
+256,Jason Schmidt,individual,1,"Amazing traction and stability, very satisfied.",Tamaulipas,15,4462.62,110/70-17,truck,2023-01-07,15,off-road,high,Goodyear,No,fast wear,Pull 521,Yes
+257,Jenna Hansen,individual,2,"Not worth the price, wore out too quickly.",Sinaloa,12,4567.03,700x25c,bicycle,2025-02-21,31,off-road,high,Michelin,Yes,good traction,Budget 564,No
+258,Pineda-Roberts,company,5,"Amazing traction and stability, very satisfied.",Guerrero,15,2565.38,700x25c,bicycle,2022-09-25,32,mixed,high,Pirelli,Yes,none,Talk 567,Yes
+259,Deborah Ramirez,individual,2,"Amazing traction and stability, very satisfied.",Aguascalientes,17,1713.73,110/70-17,car,2024-11-08,17,mixed,low,Pirelli,No,fast wear,Can 575,Yes
+260,Ruiz LLC,company,1,"Perfect for long highway trips, comfortable ride.",Nuevo León,5,3688.26,225/70R19.5,motorcycle,2023-07-16,36,highway,high,Bridgestone,Yes,excellent grip,Amount 296,No
+261,Duncan Ltd,company,3,"Had frequent punctures, disappointing experience.",Querétaro,16,3892.66,265/70R17,car,2022-04-14,4,highway,high,Bridgestone,No,punctures,Tree 471,No
+262,"Williams, Williams and Stevens",company,4,"Not worth the price, wore out too quickly.",Veracruz,1,2527.64,265/70R17,car,2023-05-20,4,mixed,low,Goodyear,No,none,List 434,Yes
+263,Sparks Ltd,company,1,,Durango,3,159.15,700x25c,bicycle,2024-07-31,20,off-road,high,Pirelli,No,punctures,Deal 375,No
+264,Erica Lopez,individual,5,"Reliable and fuel-efficient, highly recommend.",Querétaro,1,,110/70-17,car,2024-08-21,14,mixed,low,Bridgestone,No,punctures,Tv 983,Yes
+265,Zachary Rivera,individual,4,"Poor grip on wet roads, I expected better.",Sonora,18,265.37,265/70R17,motorcycle,2024-02-16,15,highway,medium,Bridgestone,Yes,excellent grip,Two 124,Yes
+266,Kathleen Roberts,individual,5,"Mediocre performance, I would not buy again.",Colima,6,4987.2,265/70R17,car,2024-10-07,12,highway,high,Michelin,No,fast wear,Test 301,Yes
+267,"Arroyo, Miller and Taylor",company,4,"Amazing traction and stability, very satisfied.",Puebla,16,1105.03,700x25c,car,2023-05-19,15,city,low,Goodyear,No,noise,Most 335,No
+268,Carlos Murray,individual,1,"Had frequent punctures, disappointing experience.",Colima,7,4186.75,110/70-17,truck,2022-08-18,7,city,low,Pirelli,No,punctures,Mission 841,No
+269,Burke Group,company,3,"Mediocre performance, I would not buy again.",Jalisco,10,2123.93,225/70R19.5,truck,2023-05-24,6,highway,low,Bridgestone,Yes,punctures,Budget 117,No
+270,Jessica Andersen,individual,1,Good tires but a bit noisy at high speeds.,Chiapas,7,406.63,110/70-17,car,2022-05-16,20,mixed,low,Michelin,No,fast wear,A 548,Yes
+271,Kimberly Mendoza,individual,5,Good tires but a bit noisy at high speeds.,Baja California,1,1435.92,265/70R17,car,2022-11-20,31,off-road,high,Pirelli,Yes,good traction,Who 926,No
+272,Ronald Jones,individual,2,Good tires but a bit noisy at high speeds.,Morelos,13,2365.82,225/70R19.5,car,2022-05-27,19,highway,low,Continental,No,excellent grip,Republican 980,No
+273,Mcintosh Group,company,5,Excellent performance and smooth ride.,Aguascalientes,18,224.67,265/70R17,car,2022-04-25,23,off-road,high,Continental,No,good traction,Yes 722,No
+274,Jonathan Smith,individual,4,Good tires but a bit noisy at high speeds.,Chihuahua,13,123.52,225/70R19.5,truck,2024-06-11,5,off-road,low,Bridgestone,Yes,good traction,Cell 945,Yes
+275,Watson Group,company,5,"Perfect for long highway trips, comfortable ride.",Baja California Sur,7,4513.27,225/70R19.5,motorcycle,2022-05-25,11,highway,low,Bridgestone,No,fast wear,Spend 329,Yes
+276,Johnny Medina,individual,5,"Perfect for long highway trips, comfortable ride.",Nayarit,15,2579.73,700x25c,bicycle,2022-12-31,20,mixed,low,Continental,No,noise,Win 559,Yes
+277,"Mclaughlin, Jones and Gray",company,1,Excellent performance and smooth ride.,Baja California,7,1725.29,700x25c,motorcycle,2023-06-16,7,off-road,high,Michelin,Yes,fast wear,Until 900,Yes
+278,"Clayton, Garcia and Galvan",company,4,"Poor grip on wet roads, I expected better.",Hidalgo,18,,225/70R19.5,motorcycle,2022-06-28,4,highway,high,Continental,Yes,noise,Whatever 876,No
+279,Andrea Mendoza,individual,5,"Great tires, very durable and reliable.",Hidalgo,2,3217.2,265/70R17,car,2024-10-19,5,off-road,medium,Goodyear,Yes,good traction,Ball 568,No
+280,Trevor Reynolds,individual,1,Good tires but a bit noisy at high speeds.,Morelos,2,3998.73,700x25c,motorcycle,2023-06-02,36,off-road,medium,Bridgestone,Yes,fast wear,Political 734,Yes
+281,Hunt PLC,company,3,"Reliable and fuel-efficient, highly recommend.",Coahuila,5,4911.17,700x25c,car,2022-12-08,24,highway,low,Goodyear,No,punctures,Leader 564,No
+282,Cesar Lewis,individual,5,"Not worth the price, wore out too quickly.",Zacatecas,11,588.22,700x25c,car,2022-07-27,28,city,low,Continental,No,punctures,Than 116,No
+283,Waller Inc,company,4,"Mediocre performance, I would not buy again.",Baja California,6,4604.74,265/70R17,truck,2022-04-11,16,mixed,medium,Michelin,Yes,good traction,Service 811,No
+284,Jarvis LLC,company,1,"Had frequent punctures, disappointing experience.",Baja California Sur,5,2867.06,700x25c,truck,2023-10-03,29,mixed,high,Bridgestone,No,noise,Grow 951,Yes
+285,James Gonzalez,individual,4,Excellent performance and smooth ride.,San Luis Potosí,1,3559.88,225/70R19.5,truck,2024-11-22,31,city,medium,Continental,Yes,excellent grip,Game 885,No
+286,Heather Vargas,individual,1,"Amazing traction and stability, very satisfied.",Baja California,5,,700x25c,bicycle,2022-12-01,34,mixed,medium,Goodyear,No,fast wear,Teach 159,No
+287,Boyd-Herrera,company,2,"Not worth the price, wore out too quickly.",Oaxaca,10,3509.27,110/70-17,bicycle,2023-08-31,27,mixed,low,Continental,Yes,excellent grip,Book 242,No
+288,Freeman-Price,company,4,"Poor grip on wet roads, I expected better.",México,5,3021.56,110/70-17,bicycle,2024-01-21,9,mixed,high,Goodyear,Yes,fast wear,Nice 305,Yes
+289,Garcia-Taylor,company,3,"Mediocre performance, I would not buy again.",Sonora,13,1502.26,225/70R19.5,car,2022-07-04,32,mixed,medium,Goodyear,No,none,Live 441,Yes
+290,Michael Reed,individual,4,"Perfect for long highway trips, comfortable ride.",Baja California,9,4716.49,110/70-17,bicycle,2023-08-02,6,highway,medium,Continental,Yes,fast wear,Party 538,No
+291,"Snow, Wang and Baker",company,1,"Amazing traction and stability, very satisfied.",Sinaloa,13,508.13,225/70R19.5,car,2024-03-11,7,off-road,high,Pirelli,Yes,none,There 462,Yes
+292,Maldonado-Williams,company,4,"Had frequent punctures, disappointing experience.",Chiapas,7,1195.57,225/70R19.5,bicycle,2023-07-14,2,highway,high,Continental,Yes,good traction,Story 112,No
+293,"Garcia, Owen and Estes",company,3,Excellent performance and smooth ride.,Hidalgo,11,4837.15,265/70R17,bicycle,2024-01-29,3,city,low,Bridgestone,No,excellent grip,Art 687,Yes
+294,Katherine Jimenez,individual,2,"Poor grip on wet roads, I expected better.",Coahuila,18,2886.47,110/70-17,car,2025-01-22,10,mixed,low,Bridgestone,No,none,Big 194,Yes
+295,Mrs. Kristen Harvey,individual,5,"Amazing traction and stability, very satisfied.",Nuevo León,6,2454.18,110/70-17,motorcycle,2023-11-09,11,mixed,medium,Bridgestone,Yes,excellent grip,Owner 752,Yes
+296,Michelle Taylor,individual,1,"Not worth the price, wore out too quickly.",Colima,9,4339.6,700x25c,car,2022-07-08,9,mixed,low,Bridgestone,Yes,punctures,Fine 222,Yes
+297,"Jones, Lowe and Thomas",company,1,"Great tires, very durable and reliable.",Durango,18,3104.8,110/70-17,truck,2024-07-23,27,city,high,Continental,No,good traction,Single 644,No
+298,John Reed,individual,3,"Poor grip on wet roads, I expected better.",Tabasco,13,1889.83,265/70R17,bicycle,2024-08-03,1,city,low,Pirelli,No,punctures,Brother 997,No
+299,"Boone, Miller and Castaneda",company,4,"Perfect for long highway trips, comfortable ride.",Nayarit,2,3464.39,225/70R19.5,motorcycle,2023-11-15,3,mixed,high,Pirelli,Yes,noise,With 998,Yes
+300,"Spears, Wilson and Mason",company,1,Excellent performance and smooth ride.,Hidalgo,6,1107.6,225/70R19.5,bicycle,2024-06-20,1,off-road,high,Pirelli,No,punctures,Something 376,Yes
+301,Ward-Walls,company,2,Good tires but a bit noisy at high speeds.,Hidalgo,6,2851.83,110/70-17,motorcycle,2022-09-30,20,off-road,low,Continental,No,punctures,Again 349,No
+302,Leslie Pope,individual,2,"Mediocre performance, I would not buy again.",Guanajuato,14,935.13,110/70-17,car,2023-01-14,3,city,high,Michelin,Yes,fast wear,Always 911,Yes
+303,Clark Inc,company,2,"Not worth the price, wore out too quickly.",Aguascalientes,2,559.27,225/70R19.5,bicycle,2022-09-06,26,off-road,high,Goodyear,Yes,good traction,Create 815,No
+304,Andrews Group,company,4,"Poor grip on wet roads, I expected better.",Puebla,15,3862.77,110/70-17,truck,2023-02-16,25,city,low,Pirelli,Yes,noise,Health 150,No
+305,David Foster,individual,1,Good tires but a bit noisy at high speeds.,Aguascalientes,16,4026.01,225/70R19.5,bicycle,2025-02-03,10,city,high,Bridgestone,No,good traction,Under 997,No
+306,Stewart Ltd,company,3,Excellent performance and smooth ride.,Zacatecas,2,4681.2,265/70R17,car,2024-03-01,10,off-road,high,Pirelli,No,fast wear,Difficult 130,No
+307,Ewing-Leonard,company,1,"Amazing traction and stability, very satisfied.",Quintana Roo,9,3908.06,265/70R17,car,2024-03-11,31,highway,medium,Goodyear,No,good traction,Nation 925,No
+308,Lopez-Garner,company,4,,Guanajuato,18,4717.73,700x25c,bicycle,2024-05-12,12,off-road,low,Michelin,Yes,fast wear,So 483,No
+309,Wheeler Inc,company,5,"Had frequent punctures, disappointing experience.",San Luis Potosí,8,2486.46,110/70-17,motorcycle,2022-05-10,17,city,medium,Pirelli,Yes,fast wear,Green 245,No
+310,Patricia Robertson,individual,2,"Not worth the price, wore out too quickly.",San Luis Potosí,17,373.58,225/70R19.5,bicycle,2022-04-18,10,mixed,low,Continental,No,excellent grip,Near 336,Yes
+311,Douglas Love,individual,4,"Poor grip on wet roads, I expected better.",Coahuila,1,1583.43,265/70R17,truck,2022-10-29,20,city,low,Michelin,No,fast wear,Right 394,Yes
+312,Virginia Smith,individual,4,,Nuevo León,18,4796.1,265/70R17,car,2024-11-21,16,city,medium,Pirelli,No,noise,Identify 469,Yes
+313,Webb Ltd,company,5,"Not worth the price, wore out too quickly.",Colima,4,241.43,265/70R17,car,2023-06-27,25,highway,medium,Bridgestone,Yes,excellent grip,Ready 993,Yes
+314,Black LLC,company,5,"Reliable and fuel-efficient, highly recommend.",Durango,7,2684.42,110/70-17,car,2024-05-25,10,mixed,low,Pirelli,Yes,none,Yes 153,Yes
+315,Bauer Ltd,company,5,"Poor grip on wet roads, I expected better.",Zacatecas,12,355.83,225/70R19.5,bicycle,2024-07-15,33,off-road,high,Michelin,Yes,excellent grip,Leg 454,Yes
+316,Lisa Keller,individual,3,"Poor grip on wet roads, I expected better.",Guerrero,5,2548.56,700x25c,car,2022-07-15,26,city,low,Goodyear,No,punctures,Film 909,Yes
+317,Monica Allen,individual,1,Excellent performance and smooth ride.,Coahuila,15,1363.77,225/70R19.5,motorcycle,2022-07-17,11,highway,low,Michelin,No,noise,Suddenly 185,No
+318,Daniel Everett,individual,4,Good tires but a bit noisy at high speeds.,Sonora,10,3761.67,110/70-17,motorcycle,2024-01-13,32,off-road,high,Bridgestone,Yes,none,Space 654,No
+319,Sean Robbins,individual,4,"Mediocre performance, I would not buy again.",San Luis Potosí,7,274.45,110/70-17,bicycle,2024-12-10,3,highway,medium,Goodyear,Yes,excellent grip,World 148,Yes
+320,John Ford,individual,5,"Amazing traction and stability, very satisfied.",Campeche,15,2419.34,225/70R19.5,motorcycle,2024-07-19,15,highway,medium,Continental,No,noise,Yet 113,No
+321,Alan Morton,individual,2,"Reliable and fuel-efficient, highly recommend.",Guanajuato,14,2805.12,110/70-17,car,2022-11-04,9,mixed,medium,Goodyear,No,good traction,Simple 817,Yes
+322,Victoria Mcclure,individual,2,"Had frequent punctures, disappointing experience.",Yucatán,6,2913.63,225/70R19.5,car,2025-02-09,8,highway,medium,Pirelli,No,good traction,Head 163,No
+323,Oscar Leonard,individual,1,Excellent performance and smooth ride.,Quintana Roo,15,125.05,225/70R19.5,motorcycle,2023-02-18,29,off-road,low,Michelin,No,none,Son 654,Yes
+324,Crystal Nicholson,individual,4,"Amazing traction and stability, very satisfied.",Morelos,8,2982.82,225/70R19.5,car,2022-03-20,23,highway,high,Pirelli,Yes,excellent grip,Long 448,Yes
+325,Matthew Lang,individual,5,"Not worth the price, wore out too quickly.",Colima,17,4037.73,110/70-17,bicycle,2023-05-20,24,city,medium,Continental,No,none,Modern 237,No
+326,Watkins-Doyle,company,1,"Not worth the price, wore out too quickly.",Tlaxcala,13,2239.35,225/70R19.5,truck,2022-08-12,19,mixed,medium,Pirelli,No,fast wear,Management 735,No
+327,"Collins, Henderson and Shepherd",company,2,"Poor grip on wet roads, I expected better.",Chiapas,5,1901.4,700x25c,motorcycle,2024-03-29,25,off-road,high,Continental,Yes,excellent grip,Artist 775,Yes
+328,"Ellis, Brown and Jackson",company,2,"Reliable and fuel-efficient, highly recommend.",Jalisco,15,4862.51,225/70R19.5,bicycle,2023-11-01,6,highway,high,Michelin,Yes,noise,Out 757,No
+329,Jennifer Morris,individual,3,"Mediocre performance, I would not buy again.",Nayarit,4,1349.29,265/70R17,motorcycle,2022-08-31,24,highway,high,Pirelli,Yes,none,Peace 815,Yes
+330,Brown Group,company,3,"Reliable and fuel-efficient, highly recommend.",Tabasco,11,3085.95,265/70R17,truck,2023-06-01,3,mixed,medium,Goodyear,No,none,Despite 734,No
+331,"Richard, Chapman and Stewart",company,1,"Great tires, very durable and reliable.",Colima,1,2415.45,700x25c,truck,2025-02-14,28,off-road,low,Goodyear,Yes,fast wear,Go 625,No
+332,Daniel Arnold,individual,1,"Mediocre performance, I would not buy again.",Zacatecas,15,951.01,700x25c,car,2022-04-24,28,highway,high,Pirelli,Yes,punctures,Describe 600,No
+333,Brendan Sharp,individual,4,"Perfect for long highway trips, comfortable ride.",Tamaulipas,9,4745.64,700x25c,car,2023-06-17,22,highway,low,Michelin,No,noise,Ten 220,Yes
+334,Sandoval PLC,company,4,"Had frequent punctures, disappointing experience.",Oaxaca,1,3547.83,110/70-17,motorcycle,2022-08-22,21,city,medium,Bridgestone,No,fast wear,Sport 304,No
+335,Lawson-Garza,company,5,"Reliable and fuel-efficient, highly recommend.",Michoacán,6,1528.68,265/70R17,truck,2022-07-26,36,highway,high,Michelin,No,punctures,Paper 848,No
+336,Kathy Lucero,individual,5,"Reliable and fuel-efficient, highly recommend.",Tamaulipas,12,3063.15,225/70R19.5,bicycle,2023-08-15,17,highway,high,Pirelli,No,excellent grip,Agency 878,Yes
+337,Paul Archer,individual,2,Good tires but a bit noisy at high speeds.,Veracruz,5,2572.04,265/70R17,motorcycle,2024-04-08,35,mixed,low,Michelin,Yes,fast wear,Tax 382,Yes
+338,Amber Barnes,individual,4,"Great tires, very durable and reliable.",Michoacán,13,930.74,265/70R17,motorcycle,2023-11-22,7,highway,low,Pirelli,Yes,noise,Attorney 740,No
+339,Robbins Group,company,1,"Reliable and fuel-efficient, highly recommend.",Guanajuato,11,4249.18,225/70R19.5,bicycle,2022-07-01,16,off-road,medium,Bridgestone,Yes,good traction,Serious 451,No
+340,Lamb-Flores,company,4,Good tires but a bit noisy at high speeds.,Nuevo León,4,3973.71,700x25c,truck,2023-07-19,3,highway,medium,Michelin,No,good traction,Entire 232,No
+341,"Byrd, Thomas and Barnett",company,2,"Amazing traction and stability, very satisfied.",Hidalgo,7,4081.16,110/70-17,car,2024-03-11,3,highway,high,Bridgestone,No,punctures,Reveal 337,Yes
+342,Martinez-Reeves,company,3,"Great tires, very durable and reliable.",Colima,8,861.87,700x25c,motorcycle,2023-02-28,1,highway,medium,Goodyear,No,fast wear,Anything 174,No
+343,Wright LLC,company,3,Excellent performance and smooth ride.,Jalisco,5,1825.56,700x25c,car,2023-06-21,24,highway,low,Continental,No,good traction,Follow 394,No
+344,"Shepherd, Maldonado and Holmes",company,5,"Mediocre performance, I would not buy again.",Quintana Roo,14,3070.26,110/70-17,truck,2024-10-01,31,city,low,Continental,Yes,good traction,Issue 746,No
+345,Smith-Edwards,company,3,"Not worth the price, wore out too quickly.",Tamaulipas,4,1633.36,700x25c,car,2023-03-20,16,mixed,low,Continental,Yes,none,Daughter 238,No
+346,Alan James,individual,3,"Perfect for long highway trips, comfortable ride.",Tamaulipas,7,3877.93,110/70-17,motorcycle,2024-04-19,8,city,medium,Bridgestone,No,none,Produce 432,No
+347,Nancy Fisher,individual,1,,Sonora,18,4198.35,265/70R17,car,2024-03-02,1,city,high,Pirelli,No,fast wear,Wall 963,Yes
+348,Paul Tanner,individual,3,"Mediocre performance, I would not buy again.",Sonora,7,,265/70R17,motorcycle,2024-05-08,13,highway,medium,Pirelli,Yes,excellent grip,Sound 230,Yes
+349,"Buck, Hurst and Nguyen",company,2,"Mediocre performance, I would not buy again.",Chihuahua,15,4370.02,700x25c,truck,2023-04-04,10,city,low,Michelin,Yes,good traction,Me 884,No
+350,Long-Smith,company,5,"Poor grip on wet roads, I expected better.",Nayarit,9,4542.98,110/70-17,motorcycle,2023-09-30,11,highway,low,Continental,Yes,punctures,Save 762,Yes
+351,Dwayne Collier,individual,5,"Not worth the price, wore out too quickly.",Coahuila,15,3925.94,265/70R17,truck,2022-12-23,11,mixed,medium,Bridgestone,Yes,good traction,Light 673,No
+352,Lee-Hunt,company,5,Good tires but a bit noisy at high speeds.,Aguascalientes,10,,225/70R19.5,car,2024-03-15,27,city,high,Pirelli,Yes,punctures,Often 478,No
+353,Parrish Inc,company,2,Good tires but a bit noisy at high speeds.,Chihuahua,7,890.93,110/70-17,motorcycle,2022-11-17,22,off-road,high,Bridgestone,Yes,good traction,Weight 322,Yes
+354,Anthony Smith,individual,3,Good tires but a bit noisy at high speeds.,Baja California Sur,8,2412.89,225/70R19.5,truck,2025-02-23,26,mixed,low,Goodyear,No,noise,Family 965,No
+355,"Rich, Meadows and Rodriguez",company,2,"Poor grip on wet roads, I expected better.",Tamaulipas,17,3243.05,265/70R17,motorcycle,2023-04-11,22,highway,high,Goodyear,No,good traction,Owner 932,No
+356,Rodriguez-Hart,company,2,Excellent performance and smooth ride.,Tamaulipas,10,3950.6,265/70R17,truck,2024-08-22,13,city,medium,Bridgestone,Yes,fast wear,Tree 609,Yes
+357,"Walter, Cobb and Jacobs",company,2,"Perfect for long highway trips, comfortable ride.",San Luis Potosí,2,1271.38,225/70R19.5,bicycle,2024-10-19,30,mixed,low,Pirelli,Yes,punctures,Base 408,Yes
+358,Roger Mora,individual,2,"Poor grip on wet roads, I expected better.",Sinaloa,1,3724.16,700x25c,motorcycle,2024-10-12,36,off-road,low,Michelin,No,none,Into 196,No
+359,Christopher Miller,individual,5,"Reliable and fuel-efficient, highly recommend.",San Luis Potosí,2,2242.41,225/70R19.5,car,2023-03-27,16,mixed,medium,Pirelli,No,none,Present 986,No
+360,Velasquez-Rodriguez,company,5,"Great tires, very durable and reliable.",Sonora,15,1991.76,700x25c,truck,2024-07-18,7,mixed,low,Pirelli,No,punctures,Say 345,Yes
+361,Stephanie Boyd,individual,4,"Perfect for long highway trips, comfortable ride.",Querétaro,11,1724.15,110/70-17,car,2024-11-11,14,city,low,Pirelli,No,excellent grip,Address 910,Yes
+362,Mary Garrett,individual,2,"Poor grip on wet roads, I expected better.",Chiapas,14,3158.17,265/70R17,car,2023-11-07,34,off-road,high,Continental,Yes,fast wear,Idea 969,No
+363,"Lin, Martinez and Humphrey",company,2,"Mediocre performance, I would not buy again.",Veracruz,7,3110.95,225/70R19.5,truck,2024-08-20,30,highway,high,Michelin,Yes,none,Eight 768,Yes
+364,Jackson Inc,company,1,"Perfect for long highway trips, comfortable ride.",Hidalgo,8,4854.83,700x25c,motorcycle,2024-09-16,27,mixed,high,Goodyear,Yes,excellent grip,Field 479,Yes
+365,Michelle Bishop,individual,2,"Mediocre performance, I would not buy again.",Tlaxcala,2,82.01,110/70-17,motorcycle,2023-06-21,8,mixed,medium,Michelin,Yes,excellent grip,Under 921,Yes
+366,Matthew Hart,individual,3,"Had frequent punctures, disappointing experience.",Aguascalientes,10,878.2,265/70R17,motorcycle,2024-02-25,28,off-road,low,Goodyear,Yes,good traction,Recently 360,Yes
+367,"Mcguire, Norton and Meyers",company,4,,Chihuahua,8,4702.67,110/70-17,motorcycle,2024-08-10,26,highway,low,Goodyear,Yes,punctures,Star 154,Yes
+368,Anthony Baker,individual,5,"Amazing traction and stability, very satisfied.",Tlaxcala,13,2544.91,700x25c,truck,2024-04-07,13,off-road,low,Continental,No,punctures,Stuff 848,Yes
+369,Terry Hines,individual,3,"Mediocre performance, I would not buy again.",Durango,9,4486.08,265/70R17,truck,2025-02-13,33,city,low,Pirelli,Yes,excellent grip,Community 313,Yes
+370,Sullivan PLC,company,5,"Had frequent punctures, disappointing experience.",Campeche,17,4183.73,700x25c,car,2022-12-07,28,off-road,high,Michelin,No,none,Hot 792,No
+371,Scott Jackson,individual,2,"Not worth the price, wore out too quickly.",Aguascalientes,17,2740.68,265/70R17,car,2022-06-06,10,city,low,Pirelli,No,punctures,Drug 984,No
+372,Andrew Benson,individual,1,"Not worth the price, wore out too quickly.",Tabasco,6,603.3,110/70-17,truck,2025-01-01,17,city,low,Michelin,Yes,punctures,Yes 669,Yes
+373,"Dixon, Taylor and Garza",company,3,Good tires but a bit noisy at high speeds.,Zacatecas,2,843.04,110/70-17,bicycle,2024-07-08,35,off-road,medium,Goodyear,No,excellent grip,Water 834,Yes
+374,Nicholas Valdez,individual,3,"Amazing traction and stability, very satisfied.",Colima,12,4080.46,265/70R17,motorcycle,2022-04-14,1,mixed,medium,Bridgestone,Yes,excellent grip,Reach 586,No
+375,Cooley Group,company,3,Excellent performance and smooth ride.,San Luis Potosí,2,3484.62,110/70-17,motorcycle,2025-02-14,26,city,low,Michelin,No,good traction,Natural 461,Yes
+376,James-Herrera,company,4,Good tires but a bit noisy at high speeds.,Quintana Roo,4,60.09,265/70R17,motorcycle,2023-02-04,28,city,high,Goodyear,No,excellent grip,These 353,Yes
+377,Valdez-Reyes,company,1,"Amazing traction and stability, very satisfied.",Jalisco,5,3173.55,265/70R17,motorcycle,2023-10-29,34,off-road,medium,Continental,Yes,none,Require 875,No
+378,"Kim, Jones and Cox",company,5,"Poor grip on wet roads, I expected better.",Baja California Sur,11,,110/70-17,car,2022-05-01,28,city,low,Pirelli,No,excellent grip,Ok 166,Yes
+379,"Mccormick, Smith and Webb",company,5,Good tires but a bit noisy at high speeds.,Guerrero,12,2268.05,700x25c,car,2023-09-06,4,mixed,low,Bridgestone,Yes,punctures,Night 929,No
+380,Joshua Gordon,individual,5,Good tires but a bit noisy at high speeds.,Nayarit,7,973.38,265/70R17,motorcycle,2025-01-05,12,mixed,low,Continental,Yes,fast wear,College 139,No
+381,Aguilar-Griffin,company,3,"Had frequent punctures, disappointing experience.",Morelos,3,3369.47,110/70-17,motorcycle,2023-08-02,36,highway,low,Goodyear,Yes,noise,Single 880,No
+382,Sharon Oconnor,individual,2,"Perfect for long highway trips, comfortable ride.",Jalisco,10,4387.77,265/70R17,bicycle,2022-07-25,8,off-road,medium,Goodyear,Yes,excellent grip,Yet 814,No
+383,Jacob Herrera,individual,1,"Poor grip on wet roads, I expected better.",Puebla,6,3770.41,700x25c,car,2025-03-04,7,city,low,Continental,No,excellent grip,Section 821,No
+384,Kyle Green,individual,3,Good tires but a bit noisy at high speeds.,Aguascalientes,3,2758.13,265/70R17,truck,2024-04-20,5,highway,high,Goodyear,No,excellent grip,Stop 751,Yes
+385,Parker-Snow,company,5,Excellent performance and smooth ride.,Colima,18,2613.19,700x25c,truck,2023-04-07,16,highway,medium,Pirelli,No,excellent grip,Will 360,Yes
+386,Troy Johnson,individual,1,Good tires but a bit noisy at high speeds.,Tamaulipas,11,974.69,700x25c,motorcycle,2022-11-30,11,highway,high,Michelin,No,punctures,Decade 333,No
+387,Schroeder-Terrell,company,3,"Mediocre performance, I would not buy again.",Quintana Roo,3,1964.47,700x25c,bicycle,2023-08-21,17,mixed,medium,Goodyear,No,excellent grip,Off 213,Yes
+388,Davis PLC,company,3,"Perfect for long highway trips, comfortable ride.",Baja California Sur,16,1030.26,265/70R17,car,2022-08-10,17,highway,low,Michelin,No,noise,Film 700,No
+389,Austin LLC,company,4,"Mediocre performance, I would not buy again.",Jalisco,6,2514.32,265/70R17,motorcycle,2023-02-16,10,off-road,high,Continental,Yes,none,Three 272,Yes
+390,Sheri Thomas,individual,4,"Not worth the price, wore out too quickly.",Jalisco,3,,225/70R19.5,motorcycle,2024-11-03,6,highway,high,Bridgestone,Yes,noise,Wait 385,No
+391,Corey Bean,individual,2,"Perfect for long highway trips, comfortable ride.",Nayarit,16,4448.81,225/70R19.5,bicycle,2024-12-08,27,highway,high,Continental,Yes,noise,Crime 495,No
+392,Knox-Hendrix,company,4,"Not worth the price, wore out too quickly.",Durango,3,1690.17,265/70R17,motorcycle,2022-05-16,28,mixed,medium,Pirelli,No,good traction,Resource 340,Yes
+393,Lisa Boone,individual,1,Good tires but a bit noisy at high speeds.,Chiapas,5,4040.55,225/70R19.5,car,2023-12-13,15,mixed,high,Bridgestone,No,fast wear,Soon 717,No
+394,"Thomas, Dodson and Walters",company,1,"Perfect for long highway trips, comfortable ride.",Sinaloa,13,4437.38,225/70R19.5,bicycle,2023-07-19,22,city,high,Pirelli,Yes,none,Bad 955,No
+395,"Taylor, Lara and Davis",company,3,"Reliable and fuel-efficient, highly recommend.",Durango,1,2660.62,225/70R19.5,truck,2024-08-03,28,off-road,high,Michelin,Yes,noise,System 753,No
+396,Garcia PLC,company,5,"Amazing traction and stability, very satisfied.",Michoacán,12,3129.89,265/70R17,truck,2025-03-11,7,off-road,low,Bridgestone,No,none,Letter 716,Yes
+397,Walsh Inc,company,3,"Reliable and fuel-efficient, highly recommend.",Guerrero,1,4568.34,225/70R19.5,truck,2025-03-08,8,city,low,Goodyear,No,none,Real 754,No
+398,Miller Group,company,5,"Perfect for long highway trips, comfortable ride.",Querétaro,5,3237.25,700x25c,bicycle,2024-08-09,22,off-road,medium,Continental,Yes,good traction,Rule 116,Yes
+399,Lauren Smith MD,individual,3,"Amazing traction and stability, very satisfied.",Tlaxcala,10,2097.48,225/70R19.5,motorcycle,2023-03-01,22,highway,high,Pirelli,Yes,punctures,Alone 224,Yes
+400,Sean Gross,individual,4,"Mediocre performance, I would not buy again.",Tamaulipas,3,1425.53,110/70-17,bicycle,2023-08-18,8,city,high,Continental,Yes,noise,Director 851,No
+401,Sophia Burnett,individual,3,"Had frequent punctures, disappointing experience.",Tabasco,14,,110/70-17,bicycle,2023-11-06,27,mixed,low,Continental,No,excellent grip,Throw 135,No
+402,Ferguson and Sons,company,2,"Poor grip on wet roads, I expected better.",Quintana Roo,6,2613.06,700x25c,bicycle,2023-03-29,22,mixed,high,Bridgestone,No,good traction,Degree 954,No
+403,Ashley Goodwin,individual,5,"Had frequent punctures, disappointing experience.",Chihuahua,16,2819.55,700x25c,truck,2024-11-29,29,off-road,medium,Goodyear,No,none,Way 727,No
+404,"Smith, Moreno and Cohen",company,5,,Durango,16,4972.17,265/70R17,bicycle,2022-11-06,1,city,medium,Bridgestone,Yes,fast wear,Home 546,Yes
+405,Jordan-Becker,company,5,"Reliable and fuel-efficient, highly recommend.",Baja California Sur,8,4715.38,225/70R19.5,bicycle,2025-02-15,23,city,high,Bridgestone,No,good traction,Total 824,No
+406,Peter Bell,individual,1,Good tires but a bit noisy at high speeds.,Nayarit,15,2097.98,110/70-17,car,2022-11-15,30,off-road,medium,Pirelli,Yes,none,Several 617,No
+407,"Gilmore, Perez and Holder",company,5,"Reliable and fuel-efficient, highly recommend.",Chiapas,12,2204.69,700x25c,bicycle,2024-06-10,5,off-road,medium,Michelin,No,fast wear,Trade 751,Yes
+408,Cannon Inc,company,5,"Had frequent punctures, disappointing experience.",Tabasco,9,1672.3,110/70-17,truck,2022-05-03,14,city,high,Michelin,Yes,good traction,Federal 235,No
+409,Leslie Mueller,individual,4,"Amazing traction and stability, very satisfied.",Baja California Sur,13,3592.93,265/70R17,bicycle,2022-07-28,23,city,high,Pirelli,No,good traction,Use 595,Yes
+410,Estrada LLC,company,5,"Had frequent punctures, disappointing experience.",San Luis Potosí,11,4527.8,225/70R19.5,bicycle,2022-05-18,24,city,low,Pirelli,No,punctures,Article 730,No
+411,"Smith, Brown and Barnett",company,1,"Not worth the price, wore out too quickly.",Colima,3,1074.73,700x25c,bicycle,2024-04-03,5,city,low,Michelin,Yes,punctures,Shoulder 720,No
+412,Weiss Inc,company,4,"Not worth the price, wore out too quickly.",Chiapas,5,,700x25c,motorcycle,2023-03-14,19,off-road,medium,Bridgestone,Yes,noise,Scene 319,Yes
+413,Brianna Nguyen,individual,1,"Mediocre performance, I would not buy again.",Coahuila,5,1194.09,110/70-17,car,2023-04-06,24,mixed,medium,Pirelli,No,punctures,Plan 343,Yes
+414,White-Nash,company,1,Excellent performance and smooth ride.,Durango,6,4565.94,225/70R19.5,motorcycle,2022-06-29,28,mixed,medium,Pirelli,Yes,good traction,Politics 537,No
+415,Carter PLC,company,5,"Had frequent punctures, disappointing experience.",Veracruz,9,3009.49,110/70-17,truck,2024-04-02,16,off-road,low,Pirelli,Yes,noise,Wear 627,No
+416,Marshall-Henry,company,2,"Had frequent punctures, disappointing experience.",Querétaro,10,3524.2,265/70R17,bicycle,2023-10-20,25,highway,medium,Goodyear,No,excellent grip,Read 914,Yes
+417,Ortega Ltd,company,1,"Great tires, very durable and reliable.",Tlaxcala,2,3176.93,225/70R19.5,truck,2023-07-21,33,off-road,high,Goodyear,No,punctures,Rate 796,Yes
+418,Scott Conner,individual,5,"Not worth the price, wore out too quickly.",Michoacán,9,4677.9,700x25c,car,2023-08-16,17,mixed,medium,Goodyear,No,punctures,Class 321,Yes
+419,Angela Thompson,individual,4,"Perfect for long highway trips, comfortable ride.",Tabasco,11,4429.95,225/70R19.5,truck,2023-12-02,34,city,high,Pirelli,No,fast wear,Support 567,No
+420,Martinez-Haynes,company,3,"Perfect for long highway trips, comfortable ride.",Durango,10,554.55,700x25c,bicycle,2023-04-22,7,mixed,low,Michelin,Yes,punctures,Officer 918,No
+421,Jessica Mercado,individual,4,"Poor grip on wet roads, I expected better.",Michoacán,15,834.11,225/70R19.5,car,2024-08-18,11,off-road,medium,Bridgestone,No,good traction,Very 966,Yes
+422,"Tate, Curry and Medina",company,1,Good tires but a bit noisy at high speeds.,Jalisco,10,67.12,700x25c,bicycle,2024-09-08,10,mixed,medium,Bridgestone,Yes,fast wear,Million 628,Yes
+423,Shannon Torres,individual,1,"Poor grip on wet roads, I expected better.",Chihuahua,2,4235.13,700x25c,truck,2024-11-03,21,off-road,high,Continental,Yes,fast wear,Themselves 779,No
+424,Molina PLC,company,2,"Not worth the price, wore out too quickly.",México,14,4241.93,700x25c,motorcycle,2023-02-19,13,mixed,high,Pirelli,Yes,noise,Reach 349,No
+425,Goodman-Myers,company,3,Good tires but a bit noisy at high speeds.,Jalisco,17,1678.4,700x25c,motorcycle,2023-12-22,26,mixed,high,Bridgestone,No,noise,Wish 286,No
+426,Andrew Romero,individual,2,"Great tires, very durable and reliable.",Morelos,18,4611.51,700x25c,motorcycle,2022-05-02,10,off-road,high,Continental,Yes,excellent grip,Fact 118,Yes
+427,Buckley-Price,company,3,"Reliable and fuel-efficient, highly recommend.",Quintana Roo,3,4324.21,225/70R19.5,car,2022-05-27,20,mixed,medium,Goodyear,No,punctures,Return 656,No
+428,Deborah Blackburn,individual,5,Excellent performance and smooth ride.,Nayarit,8,3217.63,225/70R19.5,motorcycle,2023-08-09,22,highway,medium,Goodyear,Yes,excellent grip,Traditional 570,Yes
+429,Barron-Williams,company,3,"Reliable and fuel-efficient, highly recommend.",Nuevo León,1,3444.25,265/70R17,motorcycle,2023-04-22,12,off-road,high,Continental,Yes,punctures,Phone 399,Yes
+430,Thomas Allen,individual,5,"Had frequent punctures, disappointing experience.",Veracruz,16,4658.06,225/70R19.5,bicycle,2024-09-18,21,highway,medium,Bridgestone,No,punctures,Military 916,No
+431,Sarah Allen,individual,5,"Had frequent punctures, disappointing experience.",Hidalgo,6,2302.78,110/70-17,truck,2023-03-23,9,mixed,high,Goodyear,Yes,noise,Unit 662,Yes
+432,"Wagner, Smith and Thomas",company,1,"Amazing traction and stability, very satisfied.",Guerrero,2,4145.93,700x25c,bicycle,2024-11-08,9,city,high,Pirelli,No,punctures,Yet 170,No
+433,Jacob Zavala III,individual,4,"Poor grip on wet roads, I expected better.",Tabasco,11,670.89,110/70-17,motorcycle,2024-12-22,1,mixed,low,Michelin,No,fast wear,Amount 273,No
+434,Mathis-Morris,company,5,"Amazing traction and stability, very satisfied.",Tabasco,7,2884.69,265/70R17,bicycle,2022-05-16,12,city,medium,Pirelli,No,punctures,Ability 368,Yes
+435,Autumn Campbell,individual,2,Good tires but a bit noisy at high speeds.,Chihuahua,14,,110/70-17,truck,2024-04-08,8,city,high,Pirelli,No,noise,Discuss 105,Yes
+436,Sarah Durham,individual,5,"Not worth the price, wore out too quickly.",Sonora,13,4347.92,265/70R17,car,2025-02-09,16,highway,high,Michelin,No,good traction,Audience 333,No
+437,Blair-Parrish,company,3,"Had frequent punctures, disappointing experience.",Tabasco,7,1080.1,110/70-17,bicycle,2023-07-14,3,highway,high,Continental,No,punctures,Hotel 446,No
+438,Ashley Cobb,individual,1,"Perfect for long highway trips, comfortable ride.",Tamaulipas,14,2988.47,225/70R19.5,motorcycle,2022-05-27,33,highway,low,Pirelli,Yes,noise,Card 654,No
+439,Lucas Smith,individual,1,"Great tires, very durable and reliable.",Campeche,12,4075.88,265/70R17,car,2024-07-24,12,mixed,low,Goodyear,Yes,excellent grip,Develop 587,No
+440,"Cannon, Valdez and Li",company,2,"Great tires, very durable and reliable.",Durango,4,2312.99,700x25c,motorcycle,2022-07-28,33,mixed,medium,Pirelli,Yes,excellent grip,Represent 915,Yes
+441,Robert Williams,individual,3,"Perfect for long highway trips, comfortable ride.",Morelos,7,2104.26,110/70-17,bicycle,2023-07-10,15,highway,medium,Continental,Yes,punctures,Dinner 875,No
+442,Lawson-Houston,company,5,Excellent performance and smooth ride.,Sinaloa,18,3541.1,265/70R17,truck,2024-11-22,24,off-road,low,Goodyear,Yes,good traction,Notice 879,Yes
+443,Maria Dunn,individual,5,"Mediocre performance, I would not buy again.",Veracruz,14,2104.52,265/70R17,motorcycle,2023-12-03,33,highway,low,Pirelli,Yes,none,We 318,No
+444,"Walker, Rogers and Higgins",company,1,"Amazing traction and stability, very satisfied.",Nuevo León,2,1182.77,110/70-17,truck,2024-10-02,25,city,low,Bridgestone,Yes,punctures,Teach 359,Yes
+445,Hernandez and Sons,company,3,Excellent performance and smooth ride.,Tamaulipas,16,,265/70R17,truck,2023-08-09,9,city,low,Goodyear,No,punctures,Beat 824,No
+446,James Horn,individual,1,"Amazing traction and stability, very satisfied.",Chihuahua,6,4403.77,110/70-17,motorcycle,2023-08-24,9,off-road,high,Continental,Yes,none,Product 760,No
+447,Victoria Woodard,individual,2,"Perfect for long highway trips, comfortable ride.",Zacatecas,7,2720.4,225/70R19.5,car,2024-11-12,14,highway,high,Continental,Yes,good traction,Pay 801,Yes
+448,Ashley Douglas,individual,1,Excellent performance and smooth ride.,Tabasco,14,4339.6,225/70R19.5,motorcycle,2022-03-17,16,highway,medium,Continental,No,noise,Would 183,Yes
+449,"Smith, Brown and Cortez",company,1,"Great tires, very durable and reliable.",Veracruz,13,2668.63,225/70R19.5,truck,2024-02-29,31,highway,high,Michelin,No,good traction,Statement 763,No
+450,Nicholas Thompson,individual,1,"Perfect for long highway trips, comfortable ride.",Tamaulipas,15,4763.88,700x25c,bicycle,2022-04-04,12,highway,high,Pirelli,No,good traction,Coach 125,Yes
+451,Jaclyn Gonzalez,individual,2,,Chihuahua,1,4576.25,225/70R19.5,motorcycle,2024-10-06,11,city,low,Bridgestone,No,fast wear,Wish 633,No
+452,Stephen Smith,individual,3,"Reliable and fuel-efficient, highly recommend.",San Luis Potosí,6,2764.54,265/70R17,car,2024-10-19,30,highway,medium,Goodyear,No,excellent grip,Ago 829,No
+453,"Davis, Morrow and Blankenship",company,4,Excellent performance and smooth ride.,Jalisco,18,4576.87,700x25c,car,2024-08-02,14,city,high,Bridgestone,No,fast wear,Change 538,Yes
+454,"Fisher, Johnson and Johnson",company,1,"Had frequent punctures, disappointing experience.",Nuevo León,9,4286.25,225/70R19.5,motorcycle,2025-03-02,7,mixed,high,Bridgestone,No,noise,Level 275,No
+455,Harris-Schroeder,company,1,"Not worth the price, wore out too quickly.",Michoacán,12,543.81,225/70R19.5,truck,2023-09-05,20,city,low,Pirelli,Yes,fast wear,Half 407,Yes
+456,"Yang, Davenport and Pace",company,1,"Amazing traction and stability, very satisfied.",Hidalgo,5,532.1,110/70-17,motorcycle,2023-02-26,32,mixed,high,Bridgestone,Yes,punctures,Model 901,Yes
+457,Michael Cummings,individual,2,"Poor grip on wet roads, I expected better.",Guanajuato,10,1392.66,700x25c,bicycle,2024-09-23,4,city,medium,Pirelli,No,good traction,Anyone 707,Yes
+458,"Foster, Buchanan and Olson",company,3,"Not worth the price, wore out too quickly.",Nayarit,6,3386.71,225/70R19.5,truck,2024-07-08,25,city,low,Continental,No,excellent grip,Eat 637,No
+459,Copeland LLC,company,2,"Great tires, very durable and reliable.",Baja California Sur,11,1826.66,265/70R17,motorcycle,2025-01-23,15,highway,medium,Michelin,Yes,fast wear,Its 345,Yes
+460,Timothy Joseph,individual,2,"Had frequent punctures, disappointing experience.",Baja California Sur,10,4154.71,225/70R19.5,car,2022-03-21,14,highway,high,Continental,No,good traction,Say 715,No
+461,Meghan Finley,individual,4,"Reliable and fuel-efficient, highly recommend.",Guerrero,17,908.01,110/70-17,motorcycle,2022-03-28,15,off-road,high,Pirelli,No,punctures,Official 209,No
+462,Jeffrey Hall MD,individual,1,"Had frequent punctures, disappointing experience.",México,9,1135.73,225/70R19.5,motorcycle,2022-11-28,28,city,high,Pirelli,Yes,noise,Risk 643,No
+463,Daniel Stone,individual,4,Excellent performance and smooth ride.,Veracruz,10,657.94,225/70R19.5,truck,2024-08-06,27,mixed,medium,Pirelli,Yes,fast wear,Down 377,No
+464,Howe-Montes,company,3,"Poor grip on wet roads, I expected better.",Coahuila,11,625.78,700x25c,car,2024-03-19,24,city,medium,Pirelli,No,good traction,Activity 733,Yes
+465,Jessica Murphy,individual,1,"Reliable and fuel-efficient, highly recommend.",Chiapas,6,1741.56,110/70-17,truck,2023-08-30,27,highway,medium,Bridgestone,No,excellent grip,The 200,Yes
+466,Mr. Dennis Powers,individual,1,"Poor grip on wet roads, I expected better.",Guerrero,15,3405.44,110/70-17,car,2024-07-25,24,highway,high,Continental,No,noise,Something 690,Yes
+467,Shane Christensen,individual,4,"Amazing traction and stability, very satisfied.",Guanajuato,12,2009.05,265/70R17,bicycle,2024-03-16,5,city,medium,Pirelli,Yes,noise,Official 363,Yes
+468,Connor Wade,individual,4,Good tires but a bit noisy at high speeds.,Tamaulipas,5,2746.66,110/70-17,truck,2022-04-18,33,mixed,high,Bridgestone,No,none,Image 430,Yes
+469,Blankenship-Torres,company,3,"Mediocre performance, I would not buy again.",Michoacán,14,2156.64,700x25c,motorcycle,2023-01-12,20,highway,low,Pirelli,Yes,good traction,Total 760,Yes
+470,Dustin Garza,individual,5,"Had frequent punctures, disappointing experience.",Campeche,16,3356.71,700x25c,bicycle,2023-10-05,35,off-road,low,Goodyear,No,good traction,Feeling 225,No
+471,Heather Smith,individual,2,"Reliable and fuel-efficient, highly recommend.",Michoacán,8,2194.95,225/70R19.5,car,2023-01-02,6,city,high,Goodyear,No,noise,Edge 337,Yes
+472,Simmons-Tran,company,3,"Not worth the price, wore out too quickly.",México,17,3672.23,225/70R19.5,car,2023-08-21,2,city,high,Pirelli,Yes,fast wear,Station 473,Yes
+473,Marsh-White,company,4,"Mediocre performance, I would not buy again.",Tabasco,15,3189.35,265/70R17,motorcycle,2023-06-24,31,city,low,Pirelli,No,excellent grip,Professor 534,No
+474,Oneal-Cole,company,5,"Great tires, very durable and reliable.",Hidalgo,14,3543.05,700x25c,bicycle,2023-12-19,20,off-road,medium,Michelin,No,none,Approach 848,Yes
+475,Christopher Daniels,individual,2,"Not worth the price, wore out too quickly.",Tlaxcala,6,4594.27,110/70-17,truck,2022-06-17,3,off-road,medium,Bridgestone,Yes,excellent grip,Face 665,No
+476,"Flores, Holmes and Mitchell",company,3,"Reliable and fuel-efficient, highly recommend.",Michoacán,15,1251.6,225/70R19.5,car,2025-02-13,30,city,high,Goodyear,No,noise,Pick 441,Yes
+477,Gallegos LLC,company,2,"Mediocre performance, I would not buy again.",México,2,1224.32,110/70-17,bicycle,2023-01-12,10,mixed,high,Pirelli,Yes,noise,Debate 629,No
+478,Andrea Campbell,individual,5,"Amazing traction and stability, very satisfied.",México,6,3986.61,110/70-17,bicycle,2023-05-21,16,highway,medium,Pirelli,Yes,noise,Growth 746,Yes
+479,"Hardin, Haynes and Nunez",company,1,"Poor grip on wet roads, I expected better.",Tabasco,11,998.05,110/70-17,car,2022-11-27,33,off-road,high,Goodyear,No,good traction,See 250,No
+480,Cohen-Stark,company,5,"Great tires, very durable and reliable.",Zacatecas,5,3263.12,225/70R19.5,bicycle,2024-11-12,27,mixed,medium,Bridgestone,No,fast wear,Evening 166,Yes
+481,Alvarado Ltd,company,4,"Mediocre performance, I would not buy again.",Quintana Roo,15,4016.38,225/70R19.5,bicycle,2024-05-11,5,mixed,medium,Michelin,No,noise,Among 291,No
+482,Smith Inc,company,2,,Tabasco,13,2955.71,700x25c,bicycle,2022-11-14,25,off-road,medium,Goodyear,Yes,fast wear,Current 307,Yes
+483,Byrd-Cummings,company,1,Excellent performance and smooth ride.,Morelos,14,1339.48,265/70R17,bicycle,2022-06-10,19,city,medium,Continental,Yes,good traction,Science 224,No
+484,Ms. Lisa Ford,individual,1,"Great tires, very durable and reliable.",San Luis Potosí,17,4843.26,110/70-17,motorcycle,2024-10-22,13,highway,low,Bridgestone,Yes,punctures,My 807,Yes
+485,David Montoya,individual,4,"Poor grip on wet roads, I expected better.",Tamaulipas,10,2456.17,110/70-17,bicycle,2022-09-21,4,city,low,Bridgestone,Yes,noise,Eat 971,No
+486,Rebecca Miller,individual,3,"Reliable and fuel-efficient, highly recommend.",Baja California Sur,18,3211.37,225/70R19.5,bicycle,2023-01-18,16,off-road,high,Continental,Yes,none,Sort 334,No
+487,Hernandez LLC,company,5,"Amazing traction and stability, very satisfied.",San Luis Potosí,13,1013.95,110/70-17,motorcycle,2024-11-12,14,city,high,Pirelli,No,noise,Almost 812,Yes
+488,"Brown, James and Smith",company,2,"Perfect for long highway trips, comfortable ride.",Quintana Roo,11,3260.37,110/70-17,bicycle,2023-10-01,31,off-road,medium,Continental,Yes,noise,Keep 419,Yes
+489,"Anderson, Douglas and Williams",company,4,Excellent performance and smooth ride.,Tamaulipas,15,1525.1,225/70R19.5,motorcycle,2022-06-30,34,mixed,low,Bridgestone,No,none,Price 376,Yes
+490,Elizabeth Gallegos,individual,1,"Reliable and fuel-efficient, highly recommend.",Hidalgo,9,1895.12,700x25c,truck,2022-08-18,1,mixed,medium,Goodyear,Yes,good traction,Always 468,Yes
+491,Butler-Sutton,company,4,"Reliable and fuel-efficient, highly recommend.",Yucatán,17,4009.52,225/70R19.5,truck,2022-06-15,33,off-road,medium,Continental,Yes,none,Character 795,No
+492,Julie Vasquez,individual,2,"Poor grip on wet roads, I expected better.",Morelos,7,932.52,265/70R17,bicycle,2023-12-23,30,off-road,medium,Continental,Yes,good traction,Media 171,Yes
+493,Shannon Steele,individual,3,"Amazing traction and stability, very satisfied.",Tabasco,6,4473.41,225/70R19.5,motorcycle,2022-12-05,34,mixed,medium,Continental,No,excellent grip,Government 629,Yes
+494,Mckay-Hall,company,1,"Mediocre performance, I would not buy again.",Durango,6,2140.83,110/70-17,motorcycle,2022-10-15,25,city,medium,Continental,No,excellent grip,Cover 908,Yes
+495,Scott Foley,individual,1,"Perfect for long highway trips, comfortable ride.",Tlaxcala,16,1348.74,265/70R17,truck,2024-11-21,25,highway,low,Michelin,Yes,good traction,Brother 711,No
+496,Denise Evans,individual,1,"Had frequent punctures, disappointing experience.",Guanajuato,17,4931.86,265/70R17,bicycle,2024-10-24,1,highway,medium,Pirelli,No,fast wear,Of 696,No
+497,"Dunn, Morgan and Lucas",company,2,Excellent performance and smooth ride.,Durango,15,3791.74,700x25c,motorcycle,2024-06-17,10,city,low,Goodyear,Yes,fast wear,Real 153,Yes
+498,Duane Sanchez,individual,5,"Had frequent punctures, disappointing experience.",Durango,6,4098.92,265/70R17,bicycle,2022-12-21,2,mixed,medium,Continental,Yes,none,Professional 415,No
+499,"Martin, Miller and Robinson",company,3,"Reliable and fuel-efficient, highly recommend.",Tlaxcala,11,2572.79,700x25c,truck,2022-06-29,36,off-road,low,Goodyear,Yes,excellent grip,Feeling 989,Yes
+500,Samantha Daniels,individual,2,"Perfect for long highway trips, comfortable ride.",Tabasco,12,243.54,225/70R19.5,truck,2023-09-08,14,mixed,medium,Michelin,No,good traction,Pass 257,No
