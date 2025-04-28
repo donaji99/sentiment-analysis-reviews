@@ -62,6 +62,9 @@ It is focused both on demonstrating technical skills and generating **actionable
    - Process the sentiment analysis.
    - Generate visualizations and metrics.
    - Export the most relevant results.
+   - 
+👉 O accede directamente desde Google Colab aquí / Or open directly in Google Colab:  
+[[Abrir en Colab]([https://colab.research.google.com/drive/1nnotuga5MM51HZB70xqRlnViu0M3qRKR?usp=sharing)](https://colab.research.google.com/drive/1nnotuga5MM51HZB70xqRlnViu0M3qRKR?usp=sharing)
 
 ---
 
